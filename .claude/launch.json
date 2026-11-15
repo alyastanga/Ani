@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ani-web",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd app && exec /Users/familyaccount/develop/flutter/bin/flutter run -d web-server --web-port 8080 --web-hostname localhost"],
+      "port": 8080
+    }
+  ]
+}

@@ -17,10 +17,14 @@ __pycache__/
 .venv/
 .pytest_cache/
 .hypothesis/
+.ipynb_checkpoints/
 
 # Flutter / Dart
 .dart_tool/
 flutter_app/build/
+
+# Editors
+.idea/
 
 # Tracked on purpose (listed for clarity):
 #   pipeline/data/processed/*.csv   small processed tables

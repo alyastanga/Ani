@@ -1,0 +1,481 @@
+muni,crop,dry_season,sow,water,enso,g_mat,guide_days,failed,stressed,stress_days,severe_run_max,heat_days,irrigation_mm,irrigations,eta_mm,drainage_mm,rain_mm,harvest_day,n_balance,main_reason,matured,alerts
+munoz,rice,2001-02,2001-12-01,rainfed,neutral,1718.8,106,True,True,11,10,0,0.0,0,76.9,15.6,91.1,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2002-03,2002-12-01,rainfed,el_nino,1718.8,106,True,True,10,10,0,0.0,0,42.3,0.0,26.7,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2003-04,2003-12-01,rainfed,neutral,1718.8,106,True,True,10,10,0,0.0,0,38.5,0.0,5.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2004-05,2004-12-01,rainfed,el_nino,1718.8,106,True,True,10,10,0,0.0,0,73.5,134.7,142.3,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2005-06,2005-12-01,rainfed,la_nina,1718.8,106,True,True,24,10,0,0.0,0,151.0,120.2,228.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2006-07,2006-12-01,rainfed,el_nino,1718.8,106,True,True,17,10,0,0.0,0,98.3,75.3,123.0,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2007-08,2007-12-01,rainfed,la_nina,1718.8,106,True,True,14,10,0,0.0,0,85.6,0.0,30.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2008-09,2008-12-01,rainfed,la_nina,1718.8,106,True,True,10,10,0,0.0,0,71.4,0.0,21.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2009-10,2009-12-01,rainfed,el_nino,1718.8,106,True,True,10,10,0,0.0,0,15.1,0.0,0.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2010-11,2010-12-01,rainfed,la_nina,1718.8,106,True,True,10,10,0,0.0,0,61.8,0.0,12.9,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2011-12,2011-12-01,rainfed,la_nina,1718.8,106,True,True,22,10,0,0.0,0,117.2,132.0,217.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2012-13,2012-12-01,rainfed,neutral,1718.8,106,True,True,18,10,0,0.0,0,49.2,0.0,37.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2013-14,2013-12-01,rainfed,neutral,1718.8,106,True,True,10,10,0,0.0,0,43.0,0.0,21.9,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2014-15,2014-12-01,rainfed,el_nino,1718.8,106,True,True,20,10,0,0.0,0,127.5,9.9,102.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2015-16,2015-12-01,rainfed,el_nino,1718.8,106,True,True,23,10,0,0.0,0,104.3,334.2,449.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2016-17,2016-12-01,rainfed,neutral,1718.8,106,True,True,46,10,0,0.0,0,283.7,178.2,409.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2017-18,2017-12-01,rainfed,la_nina,1718.8,106,True,True,41,10,0,0.0,0,178.0,5.1,156.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2018-19,2018-12-01,rainfed,el_nino,1718.8,106,True,True,20,10,0,0.0,0,119.5,97.5,212.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2019-20,2019-12-01,rainfed,el_nino,1718.8,106,True,True,33,10,0,0.0,0,122.6,43.6,140.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2020-21,2020-12-01,rainfed,la_nina,1718.8,106,True,True,41,10,0,0.0,0,252.9,223.4,432.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2021-22,2021-12-01,rainfed,la_nina,1718.8,106,True,True,25,10,0,0.0,0,85.0,0.0,70.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2022-23,2022-12-01,rainfed,la_nina,1718.8,106,True,True,10,10,0,0.0,0,68.7,0.0,38.5,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2023-24,2023-12-01,rainfed,el_nino,1718.8,106,True,True,10,10,0,0.0,0,32.9,0.0,21.0,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2024-25,2024-12-01,rainfed,neutral,1718.8,106,True,True,34,10,0,0.0,0,156.4,6.3,132.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2001-02,2001-12-01,limited_2,neutral,1718.8,106,True,True,16,10,0,82.0,2,117.9,60.0,99.1,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2002-03,2002-12-01,limited_2,el_nino,1718.8,106,True,True,19,10,0,69.7,2,113.8,0.0,28.5,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2003-04,2003-12-01,limited_2,neutral,1718.8,106,True,True,10,10,0,62.0,2,92.9,0.0,5.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2004-05,2004-12-01,limited_2,el_nino,1718.8,106,True,True,19,10,0,45.4,2,117.9,134.7,143.3,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2005-06,2005-12-01,limited_2,la_nina,1718.8,106,True,True,21,10,0,44.2,2,154.5,160.8,228.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2006-07,2006-12-01,limited_2,el_nino,1718.8,106,True,True,22,10,0,40.3,2,120.8,95.5,123.9,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2007-08,2007-12-01,limited_2,la_nina,1718.8,106,True,True,41,10,0,42.0,2,220.9,32.0,154.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2008-09,2008-12-01,limited_2,la_nina,1718.8,106,True,True,24,10,0,44.7,2,125.1,0.0,29.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2009-10,2009-12-01,limited_2,el_nino,1718.8,106,True,True,10,10,0,82.6,2,87.0,0.0,0.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2010-11,2010-12-01,limited_2,la_nina,1718.8,106,True,True,50,10,0,44.4,2,215.2,0.0,120.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2011-12,2011-12-01,limited_2,la_nina,1718.8,106,True,True,32,10,0,47.6,2,161.7,158.7,242.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2012-13,2012-12-01,limited_2,neutral,1718.8,106,True,True,34,10,0,67.9,2,139.8,0.0,52.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2013-14,2013-12-01,limited_2,neutral,1718.8,106,True,True,20,10,0,65.9,2,108.7,0.0,22.7,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2014-15,2014-12-01,limited_2,el_nino,1718.8,106,True,True,20,10,0,51.4,2,140.4,48.4,102.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2015-16,2015-12-01,limited_2,el_nino,1718.8,106,True,True,23,10,0,97.0,2,141.0,394.5,449.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2016-17,2016-12-01,limited_2,neutral,1718.8,106,True,True,44,10,0,45.2,2,285.1,222.0,409.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2017-18,2017-12-01,limited_2,la_nina,1718.8,106,True,True,41,10,0,62.9,2,207.6,38.3,156.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2018-19,2018-12-01,limited_2,el_nino,1718.8,106,True,True,20,10,0,81.5,2,178.0,120.5,212.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2019-20,2019-12-01,limited_2,el_nino,1718.8,106,True,True,33,10,0,60.3,2,148.4,78.1,141.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2020-21,2020-12-01,limited_2,la_nina,1718.8,106,True,True,36,10,0,43.9,2,264.6,255.6,432.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2021-22,2021-12-01,limited_2,la_nina,1718.8,106,True,True,24,10,0,71.7,2,149.9,6.9,77.5,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2022-23,2022-12-01,limited_2,la_nina,1718.8,106,True,True,35,10,0,42.9,2,201.5,108.1,223.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2023-24,2023-12-01,limited_2,el_nino,1718.8,106,True,True,18,10,0,77.0,2,107.2,0.0,21.0,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2024-25,2024-12-01,limited_2,neutral,1718.8,106,True,True,21,10,0,57.9,2,183.0,37.5,132.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2001-02,2001-12-01,limited_4,neutral,1718.8,106,True,True,21,10,0,121.5,4,165.1,60.0,102.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2002-03,2002-12-01,limited_4,el_nino,1718.8,106,True,True,20,10,0,113.5,4,154.5,4.7,28.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2003-04,2003-12-01,limited_4,neutral,1718.8,106,True,True,19,10,0,107.7,4,138.0,0.0,5.5,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2004-05,2004-12-01,limited_4,el_nino,1718.8,106,True,True,20,10,0,89.8,4,163.9,134.7,143.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2005-06,2005-12-01,limited_4,la_nina,1718.8,106,True,True,30,10,0,85.7,4,254.6,365.0,483.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2006-07,2006-12-01,limited_4,el_nino,1718.8,106,True,True,22,10,0,84.8,4,172.8,95.5,130.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2007-08,2007-12-01,limited_4,la_nina,1718.8,106,True,True,27,10,0,88.7,4,245.0,54.6,154.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2008-09,2008-12-01,limited_4,la_nina,1718.8,106,True,True,20,10,0,90.4,4,172.3,0.0,29.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2009-10,2009-12-01,limited_4,el_nino,1718.8,106,True,True,19,10,0,124.9,4,128.6,0.0,0.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,rice,2010-11,2010-12-01,limited_4,la_nina,1718.8,106,True,True,32,10,0,90.9,4,250.4,12.0,120.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2011-12,2011-12-01,limited_4,la_nina,1718.8,106,True,True,23,10,0,89.1,4,205.5,158.7,242.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2012-13,2012-12-01,limited_4,neutral,1718.8,106,True,True,30,10,0,109.4,4,180.5,0.0,52.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2013-14,2013-12-01,limited_4,neutral,1718.8,106,True,True,20,10,0,109.3,4,154.5,0.0,25.5,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2014-15,2014-12-01,limited_4,el_nino,1718.8,106,True,True,29,10,0,94.3,4,216.0,48.4,133.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2015-16,2015-12-01,limited_4,el_nino,1718.8,106,True,True,19,10,0,138.7,4,184.4,394.5,450.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2016-17,2016-12-01,limited_4,neutral,1718.8,106,True,True,33,10,0,86.7,4,301.6,247.0,409.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2017-18,2017-12-01,limited_4,la_nina,1718.8,106,True,True,34,10,0,107.8,4,222.9,67.9,156.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2018-19,2018-12-01,limited_4,el_nino,1718.8,106,True,True,18,10,0,125.0,4,186.5,155.6,212.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2019-20,2019-12-01,limited_4,el_nino,1718.8,106,True,True,27,10,0,101.8,4,178.3,91.3,141.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2020-21,2020-12-01,limited_4,la_nina,1718.8,106,True,True,26,10,0,84.7,4,273.1,287.9,432.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2021-22,2021-12-01,limited_4,la_nina,1718.8,106,True,True,22,10,0,116.1,4,178.2,26.3,83.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2022-23,2022-12-01,limited_4,la_nina,1718.8,106,True,True,22,10,0,85.3,4,208.8,143.1,223.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2023-24,2023-12-01,limited_4,el_nino,1718.8,106,True,True,18,10,0,121.2,4,152.5,0.0,21.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2024-25,2024-12-01,limited_4,neutral,1718.8,106,True,True,19,10,0,98.1,4,202.2,58.7,132.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,rice,2001-02,2001-12-01,full,neutral,1718.8,106,False,False,0,0,2,542.5,29,541.3,63.4,108.6,106.0,0.0,heat: 2 days at flowering >= 35.0 C,True,harvest_ready;heat_risk
+munoz,rice,2002-03,2002-12-01,full,el_nino,1718.8,106,False,False,0,0,0,535.3,30,527.9,4.7,30.2,106.0,0.0,none,True,harvest_ready
+munoz,rice,2003-04,2003-12-01,full,neutral,1718.8,106,False,False,0,0,2,523.5,28,512.8,0.0,19.8,105.0,0.0,heat: 2 days at flowering >= 35.0 C,True,harvest_ready;heat_risk
+munoz,rice,2004-05,2004-12-01,full,el_nino,1718.8,106,False,False,0,0,7,474.4,27,503.7,134.7,143.4,105.0,0.0,heat: 7 days at flowering >= 35.0 C,True,harvest_ready;heat_risk
+munoz,rice,2005-06,2005-12-01,full,la_nina,1718.8,106,False,False,0,0,0,357.7,20,462.0,391.4,501.8,108.0,0.0,none,True,harvest_ready
+munoz,rice,2006-07,2006-12-01,full,el_nino,1718.8,106,False,False,0,0,5,463.2,27,490.8,95.5,130.0,105.0,0.0,heat: 5 days at flowering >= 35.0 C,True,harvest_ready;heat_risk
+munoz,rice,2007-08,2007-12-01,full,la_nina,1718.8,106,False,False,0,0,0,342.5,17,470.7,100.6,215.5,111.0,0.0,none,True,harvest_ready
+munoz,rice,2008-09,2008-12-01,full,la_nina,1718.8,106,False,False,0,0,0,411.9,24,483.1,33.5,100.1,107.0,0.0,none,True,harvest_ready
+munoz,rice,2009-10,2009-12-01,full,el_nino,1718.8,106,False,False,0,0,8,576.2,32,520.8,0.0,1.8,102.0,0.0,heat: 8 days at flowering >= 35.0 C,True,harvest_ready;heat_risk
+munoz,rice,2010-11,2010-12-01,full,la_nina,1718.8,106,False,False,0,0,0,354.2,19,468.4,29.8,139.8,111.0,0.0,none,True,harvest_ready
+munoz,rice,2011-12,2011-12-01,full,la_nina,1718.8,106,False,False,0,0,0,318.0,17,443.6,224.0,359.2,106.0,0.0,none,True,harvest_ready
+munoz,rice,2012-13,2012-12-01,full,neutral,1718.8,106,False,False,0,0,5,438.4,23,479.5,35.5,105.9,101.0,0.0,heat: 5 days at flowering >= 35.0 C,True,harvest_ready;heat_risk
+munoz,rice,2013-14,2013-12-01,full,neutral,1718.8,106,False,False,0,0,1,485.2,25,487.1,0.0,25.6,107.0,0.0,heat: 1 days at flowering >= 35.0 C,True,harvest_ready;heat_risk
+munoz,rice,2014-15,2014-12-01,full,el_nino,1718.8,106,False,False,0,0,3,447.6,26,504.5,67.2,133.1,106.0,0.0,heat: 3 days at flowering >= 35.0 C,True,harvest_ready;heat_risk
+munoz,rice,2015-16,2015-12-01,full,el_nino,1718.8,106,False,False,0,0,0,469.7,22,462.7,394.5,457.5,103.0,0.0,none,True,harvest_ready
+munoz,rice,2016-17,2016-12-01,full,neutral,1718.8,106,False,False,0,0,0,342.2,18,468.3,277.6,410.5,109.0,0.0,none,True,harvest_ready
+munoz,rice,2017-18,2017-12-01,full,la_nina,1718.8,106,False,False,0,0,4,416.5,22,462.6,110.0,175.7,104.0,0.0,heat: 4 days at flowering >= 35.0 C,True,harvest_ready;heat_risk
+munoz,rice,2018-19,2018-12-01,full,el_nino,1718.8,106,False,False,0,0,0,504.0,27,514.3,155.6,213.8,102.0,0.0,none,True,harvest_ready
+munoz,rice,2019-20,2019-12-01,full,el_nino,1718.8,106,False,False,0,0,0,477.5,25,495.8,106.3,158.3,105.0,0.0,none,True,harvest_ready
+munoz,rice,2020-21,2020-12-01,full,la_nina,1718.8,106,False,False,0,0,0,273.6,14,434.4,299.5,472.8,109.0,0.0,none,True,harvest_ready
+munoz,rice,2021-22,2021-12-01,full,la_nina,1718.8,106,False,False,0,0,0,416.2,22,483.8,74.4,192.9,105.0,0.0,none,True,harvest_ready
+munoz,rice,2022-23,2022-12-01,full,la_nina,1718.8,106,False,False,0,0,0,412.4,24,479.6,152.7,232.7,108.0,0.0,none,True,harvest_ready
+munoz,rice,2023-24,2023-12-01,full,el_nino,1718.8,106,False,False,0,0,3,532.5,30,510.1,0.0,23.9,100.0,0.0,heat: 3 days at flowering >= 35.0 C,True,harvest_ready;heat_risk
+munoz,rice,2024-25,2024-12-01,full,neutral,1718.8,106,False,False,0,0,0,329.5,17,439.2,85.9,211.3,103.0,0.0,none,True,harvest_ready
+munoz,onion,2001-02,2001-12-01,rainfed,neutral,2706.7,110,True,True,16,10,0,0.0,0,57.0,38.7,91.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2002-03,2002-12-01,rainfed,el_nino,2706.7,110,True,True,10,10,0,0.0,0,24.1,0.0,13.0,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,onion,2003-04,2003-12-01,rainfed,neutral,2706.7,110,True,True,10,10,0,0.0,0,22.2,0.0,5.1,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,onion,2004-05,2004-12-01,rainfed,el_nino,2706.7,110,True,True,17,10,0,0.0,0,50.5,136.5,142.3,,0.0,water: 10 days with Ks < 0.5 in Veg,True,rot_risk;water_fail;water_stress
+munoz,onion,2005-06,2005-12-01,rainfed,la_nina,2706.7,110,True,True,19,10,0,0.0,0,114.1,143.8,221.6,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2006-07,2006-12-01,rainfed,el_nino,2706.7,110,True,True,17,10,0,0.0,0,69.4,89.9,121.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2007-08,2007-12-01,rainfed,la_nina,2706.7,110,True,True,21,10,0,0.0,0,71.2,0.0,30.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2008-09,2008-12-01,rainfed,la_nina,2706.7,110,True,True,17,10,0,0.0,0,52.8,0.0,16.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,onion,2009-10,2009-12-01,rainfed,el_nino,2706.7,110,True,True,10,10,0,0.0,0,9.5,0.0,0.0,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,onion,2010-11,2010-12-01,rainfed,la_nina,2706.7,110,True,True,15,10,0,0.0,0,42.7,0.0,7.0,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,onion,2011-12,2011-12-01,rainfed,la_nina,2706.7,110,True,True,17,10,0,0.0,0,83.7,156.1,217.5,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2012-13,2012-12-01,rainfed,neutral,2706.7,110,True,True,10,10,0,0.0,0,19.1,0.0,1.5,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,onion,2013-14,2013-12-01,rainfed,neutral,2706.7,110,True,True,21,10,0,0.0,0,39.3,0.0,21.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2014-15,2014-12-01,rainfed,el_nino,2706.7,110,True,True,17,10,0,0.0,0,99.7,29.1,100.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2015-16,2015-12-01,rainfed,el_nino,2706.7,110,True,True,25,10,0,0.0,0,86.9,359.9,449.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2016-17,2016-12-01,rainfed,neutral,2706.7,110,False,True,38,5,0,0.0,0,238.7,220.4,434.9,112.0,0.0,water: 38 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,onion,2017-18,2017-12-01,rainfed,la_nina,2706.7,110,True,True,24,10,0,0.0,0,80.9,24.5,85.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2018-19,2018-12-01,rainfed,el_nino,2706.7,110,True,True,10,10,0,0.0,0,20.9,0.0,18.3,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,onion,2019-20,2019-12-01,rainfed,el_nino,2706.7,110,True,True,28,10,0,0.0,0,82.3,57.5,135.6,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2020-21,2020-12-01,rainfed,la_nina,2706.7,110,False,True,37,9,0,0.0,0,236.5,261.4,472.9,112.0,0.0,water: 37 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,onion,2021-22,2021-12-01,rainfed,la_nina,2706.7,110,True,True,26,10,0,0.0,0,84.4,0.0,70.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2022-23,2022-12-01,rainfed,la_nina,2706.7,110,True,True,38,10,0,0.0,0,144.3,111.6,223.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2023-24,2023-12-01,rainfed,el_nino,2706.7,110,True,True,10,10,0,0.0,0,20.2,0.0,18.2,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,onion,2024-25,2024-12-01,rainfed,neutral,2706.7,110,True,True,31,10,0,0.0,0,133.8,22.5,132.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2001-02,2001-12-01,limited_2,neutral,2706.7,110,True,True,16,10,0,62.6,2,94.5,68.6,99.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2002-03,2002-12-01,limited_2,el_nino,2706.7,110,True,True,18,10,0,52.3,2,95.1,0.0,28.5,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2003-04,2003-12-01,limited_2,neutral,2706.7,110,True,True,19,10,0,46.4,2,72.6,0.0,5.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2004-05,2004-12-01,limited_2,el_nino,2706.7,110,True,True,17,10,0,44.5,2,97.4,136.5,143.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,rot_risk;water_fail;water_stress
+munoz,onion,2005-06,2005-12-01,limited_2,la_nina,2706.7,110,True,True,17,10,0,43.6,2,114.7,186.8,221.6,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2006-07,2006-12-01,limited_2,el_nino,2706.7,110,True,True,16,10,0,41.3,2,115.5,89.9,130.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2007-08,2007-12-01,limited_2,la_nina,2706.7,110,True,True,32,10,0,45.3,2,173.5,66.6,154.6,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2008-09,2008-12-01,limited_2,la_nina,2706.7,110,True,True,21,10,0,44.4,2,111.9,0.0,29.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2009-10,2009-12-01,limited_2,el_nino,2706.7,110,True,True,17,10,0,62.2,2,68.7,0.0,0.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2010-11,2010-12-01,limited_2,la_nina,2706.7,110,True,True,37,10,0,43.9,2,188.4,12.6,120.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2011-12,2011-12-01,limited_2,la_nina,2706.7,110,True,True,25,10,0,39.1,2,148.1,156.1,242.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2012-13,2012-12-01,limited_2,neutral,2706.7,110,True,True,37,10,0,50.9,2,119.9,0.0,52.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2013-14,2013-12-01,limited_2,neutral,2706.7,110,True,True,15,10,0,50.1,2,87.3,3.0,22.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2014-15,2014-12-01,limited_2,el_nino,2706.7,110,True,True,29,10,0,43.4,2,157.1,48.3,133.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2015-16,2015-12-01,limited_2,el_nino,2706.7,110,True,True,21,10,0,69.0,2,103.7,412.0,449.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2016-17,2016-12-01,limited_2,neutral,2706.7,110,False,True,31,5,0,41.9,2,244.8,256.2,434.9,112.0,0.0,water: 31 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,onion,2017-18,2017-12-01,limited_2,la_nina,2706.7,110,True,True,17,10,0,47.5,2,98.4,54.5,85.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2018-19,2018-12-01,limited_2,el_nino,2706.7,110,True,True,20,10,0,59.5,2,139.1,139.6,212.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2019-20,2019-12-01,limited_2,el_nino,2706.7,110,True,True,32,10,0,46.7,2,127.2,81.0,141.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2020-21,2020-12-01,limited_2,la_nina,2706.7,110,False,True,24,9,0,41.1,2,259.1,280.0,472.9,112.0,0.0,water: 24 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,onion,2021-22,2021-12-01,limited_2,la_nina,2706.7,110,True,True,21,10,0,54.8,2,113.6,25.5,70.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2022-23,2022-12-01,limited_2,la_nina,2706.7,110,True,True,22,10,0,43.1,2,166.3,132.7,223.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2023-24,2023-12-01,limited_2,el_nino,2706.7,110,True,True,17,10,0,57.5,2,89.1,0.0,21.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2024-25,2024-12-01,limited_2,neutral,2706.7,110,True,True,17,10,0,43.1,2,142.7,57.1,132.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2001-02,2001-12-01,limited_4,neutral,2706.7,110,True,True,17,10,0,100.5,4,138.9,68.6,102.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2002-03,2002-12-01,limited_4,el_nino,2706.7,110,True,True,17,10,0,95.9,4,134.9,5.4,29.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2003-04,2003-12-01,limited_4,neutral,2706.7,110,True,True,16,10,0,86.7,4,113.2,0.0,5.5,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2004-05,2004-12-01,limited_4,el_nino,2706.7,110,True,True,16,10,0,84.1,4,137.6,136.5,143.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,rot_risk;water_fail;water_stress
+munoz,onion,2005-06,2005-12-01,limited_4,la_nina,2706.7,110,True,True,26,10,0,82.1,4,200.7,400.7,483.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2006-07,2006-12-01,limited_4,el_nino,2706.7,110,True,True,18,10,0,80.1,4,159.9,89.9,130.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2007-08,2007-12-01,limited_4,la_nina,2706.7,110,True,True,21,10,0,87.3,4,196.9,85.1,154.6,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2008-09,2008-12-01,limited_4,la_nina,2706.7,110,True,True,15,10,0,87.6,4,155.8,0.0,29.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2009-10,2009-12-01,limited_4,el_nino,2706.7,110,True,True,16,10,0,104.4,4,111.4,0.0,0.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2010-11,2010-12-01,limited_4,la_nina,2706.7,110,True,True,23,10,0,84.1,4,206.5,34.7,120.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2011-12,2011-12-01,limited_4,la_nina,2706.7,110,True,True,19,10,0,81.1,4,189.8,163.4,243.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2012-13,2012-12-01,limited_4,neutral,2706.7,110,True,True,23,10,0,90.2,4,150.3,9.1,52.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2013-14,2013-12-01,limited_4,neutral,2706.7,110,True,True,16,10,0,91.1,4,130.3,3.0,25.5,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2014-15,2014-12-01,limited_4,el_nino,2706.7,110,True,True,19,10,0,84.8,4,198.4,48.3,133.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2015-16,2015-12-01,limited_4,el_nino,2706.7,110,True,True,16,10,0,106.2,4,141.5,412.0,450.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2016-17,2016-12-01,limited_4,neutral,2706.7,110,False,True,16,5,0,83.7,4,265.1,277.8,434.9,112.0,0.0,water: 16 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,onion,2017-18,2017-12-01,limited_4,la_nina,2706.7,110,True,True,25,10,0,86.2,4,184.9,79.5,156.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2018-19,2018-12-01,limited_4,el_nino,2706.7,110,True,True,14,10,0,98.4,4,160.0,157.7,212.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2019-20,2019-12-01,limited_4,el_nino,2706.7,110,True,True,21,10,0,86.8,4,157.1,91.9,141.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2020-21,2020-12-01,limited_4,la_nina,2706.7,110,False,True,16,7,0,81.2,4,279.9,299.2,472.9,112.0,0.0,water: 16 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,onion,2021-22,2021-12-01,limited_4,la_nina,2706.7,110,True,True,34,10,0,97.1,4,224.2,35.6,150.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2022-23,2022-12-01,limited_4,la_nina,2706.7,110,True,True,16,10,0,83.3,4,174.4,165.1,223.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2023-24,2023-12-01,limited_4,el_nino,2706.7,110,True,True,15,10,0,96.7,4,128.8,0.0,21.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2024-25,2024-12-01,limited_4,neutral,2706.7,110,True,True,15,10,0,82.3,4,182.2,57.1,132.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,onion,2001-02,2001-12-01,full,neutral,2706.7,110,False,False,0,0,0,481.1,26,491.7,68.6,108.6,110.0,0.0,none,True,harvest_ready
+munoz,onion,2002-03,2002-12-01,full,el_nino,2706.7,110,False,False,0,0,0,459.2,25,474.4,9.3,55.7,110.0,0.0,none,True,harvest_ready
+munoz,onion,2003-04,2003-12-01,full,neutral,2706.7,110,False,False,0,0,0,455.2,24,463.3,0.0,19.8,109.0,0.0,none,True,harvest_ready
+munoz,onion,2004-05,2004-12-01,full,el_nino,2706.7,110,False,False,0,0,0,425.7,23,453.4,182.3,201.3,109.0,0.0,none,True,harvest_ready;rot_risk
+munoz,onion,2005-06,2005-12-01,full,la_nina,2706.7,110,False,False,0,0,0,349.8,19,414.2,431.7,501.8,111.0,0.0,none,True,harvest_ready
+munoz,onion,2006-07,2006-12-01,full,el_nino,2706.7,110,False,False,0,0,0,389.8,21,442.3,89.9,133.5,109.0,0.0,none,True,harvest_ready
+munoz,onion,2007-08,2007-12-01,full,la_nina,2706.7,110,False,False,0,0,0,326.9,17,414.3,143.2,235.9,113.0,0.0,none,True,harvest_ready
+munoz,onion,2008-09,2008-12-01,full,la_nina,2706.7,110,False,False,0,0,0,343.5,18,434.2,18.9,100.1,111.0,0.0,none,True,harvest_ready
+munoz,onion,2009-10,2009-12-01,full,el_nino,2706.7,110,False,False,0,0,0,506.2,27,477.7,0.0,1.8,107.0,0.0,none,True,harvest_ready
+munoz,onion,2010-11,2010-12-01,full,la_nina,2706.7,110,False,False,0,0,0,309.9,16,414.8,44.8,139.8,113.0,0.0,none,True,harvest_ready
+munoz,onion,2011-12,2011-12-01,full,la_nina,2706.7,110,False,False,0,0,0,257.8,13,401.6,221.8,363.3,110.0,0.0,none,True,harvest_ready
+munoz,onion,2012-13,2012-12-01,full,neutral,2706.7,110,False,False,0,0,0,381.1,20,440.9,42.0,115.1,107.0,0.0,none,True,harvest_ready
+munoz,onion,2013-14,2013-12-01,full,neutral,2706.7,110,False,False,0,0,0,438.2,23,442.7,3.0,25.6,111.0,0.0,none,True,harvest_ready
+munoz,onion,2014-15,2014-12-01,full,el_nino,2706.7,110,False,False,0,0,0,388.4,21,454.9,64.5,141.8,110.0,0.0,none,True,harvest_ready
+munoz,onion,2015-16,2015-12-01,full,el_nino,2706.7,110,False,False,0,0,0,422.4,21,423.7,412.0,457.5,108.0,0.0,none,True,harvest_ready
+munoz,onion,2016-17,2016-12-01,full,neutral,2706.7,110,False,False,0,0,0,266.3,14,416.8,284.9,434.9,112.0,0.0,none,True,harvest_ready
+munoz,onion,2017-18,2017-12-01,full,la_nina,2706.7,110,False,False,0,0,0,362.6,19,421.2,110.2,175.7,108.0,0.0,none,True,harvest_ready
+munoz,onion,2018-19,2018-12-01,full,el_nino,2706.7,110,False,False,0,0,0,435.9,23,465.9,157.7,213.8,107.0,0.0,none,True,harvest_ready
+munoz,onion,2019-20,2019-12-01,full,el_nino,2706.7,110,False,False,0,0,0,413.9,22,450.2,106.5,158.3,110.0,0.0,none,True,harvest_ready
+munoz,onion,2020-21,2020-12-01,full,la_nina,2706.7,110,False,False,0,0,0,229.4,12,385.3,320.3,472.9,112.0,0.0,none,True,harvest_ready
+munoz,onion,2021-22,2021-12-01,full,la_nina,2706.7,110,False,False,0,0,0,332.9,17,432.3,97.9,230.1,109.0,0.0,none,True,harvest_ready
+munoz,onion,2022-23,2022-12-01,full,la_nina,2706.7,110,False,False,0,0,0,358.0,19,430.2,165.1,233.0,111.0,0.0,none,True,harvest_ready
+munoz,onion,2023-24,2023-12-01,full,el_nino,2706.7,110,False,False,0,0,0,469.5,25,468.6,0.0,25.9,105.0,0.0,none,True,harvest_ready
+munoz,onion,2024-25,2024-12-01,full,neutral,2706.7,110,False,False,0,0,0,292.5,15,404.2,90.6,211.3,108.0,0.0,none,True,harvest_ready
+munoz,mungbean,2001-02,2001-12-01,rainfed,neutral,1007.9,65,True,True,20,10,0,0.0,0,96.0,15.0,102.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,mungbean,2002-03,2002-12-01,rainfed,el_nino,1007.9,65,True,True,26,10,0,0.0,0,52.3,0.0,28.5,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,mungbean,2003-04,2003-12-01,rainfed,neutral,1007.9,65,True,True,19,10,0,0.0,0,38.7,0.0,5.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,mungbean,2004-05,2004-12-01,rainfed,el_nino,1007.9,65,True,True,17,10,0,0.0,0,80.6,138.1,143.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,mungbean,2005-06,2005-12-01,rainfed,la_nina,1007.9,65,False,True,12,5,0,0.0,0,146.5,341.8,481.0,66.0,0.0,water: 12 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2006-07,2006-12-01,rainfed,el_nino,1007.9,65,True,True,19,10,0,0.0,0,94.9,94.5,130.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,mungbean,2007-08,2007-12-01,rainfed,la_nina,1007.9,65,False,True,9,0,0,0.0,0,158.7,27.2,153.2,66.0,0.0,water: 9 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2008-09,2008-12-01,rainfed,la_nina,1007.9,65,True,True,23,10,0,0.0,0,92.6,0.0,29.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,mungbean,2009-10,2009-12-01,rainfed,el_nino,1007.9,65,True,True,10,10,0,0.0,0,12.7,0.0,0.0,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,mungbean,2010-11,2010-12-01,rainfed,la_nina,1007.9,65,False,True,15,5,0,0.0,0,151.4,0.0,117.1,68.0,0.0,water: 15 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2011-12,2011-12-01,rainfed,la_nina,1007.9,65,False,True,18,1,0,0.0,0,123.3,159.1,242.9,64.0,0.0,water: 18 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2012-13,2012-12-01,rainfed,neutral,1007.9,65,False,True,37,9,0,0.0,0,82.4,0.0,52.2,62.0,0.0,water: 37 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2013-14,2013-12-01,rainfed,neutral,1007.9,65,True,True,25,10,0,0.0,0,51.8,0.0,22.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,mungbean,2014-15,2014-12-01,rainfed,el_nino,1007.9,65,False,True,15,5,0,0.0,0,144.3,31.5,133.0,65.0,0.0,water: 15 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2015-16,2015-12-01,rainfed,el_nino,1007.9,65,False,True,17,7,0,0.0,0,111.4,338.5,450.3,62.0,0.0,water: 17 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2016-17,2016-12-01,rainfed,neutral,1007.9,65,False,False,0,0,0,0.0,0,166.8,222.2,397.3,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2017-18,2017-12-01,rainfed,la_nina,1007.9,65,False,True,15,3,0,0.0,0,151.6,9.9,156.3,64.0,0.0,water: 15 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2018-19,2018-12-01,rainfed,el_nino,1007.9,65,False,True,19,8,0,0.0,0,125.6,98.4,213.8,61.0,0.0,water: 19 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2019-20,2019-12-01,rainfed,el_nino,1007.9,65,False,True,16,1,0,0.0,0,133.6,43.9,141.8,63.0,0.0,water: 16 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2020-21,2020-12-01,rainfed,la_nina,1007.9,65,False,True,7,0,0,0.0,0,155.7,257.6,406.2,66.0,0.0,water: 7 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2021-22,2021-12-01,rainfed,la_nina,1007.9,65,True,True,23,10,0,0.0,0,92.7,0.0,77.5,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,mungbean,2022-23,2022-12-01,rainfed,la_nina,1007.9,65,False,True,1,0,0,0.0,0,163.0,101.5,223.0,66.0,0.0,water: 1 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2023-24,2023-12-01,rainfed,el_nino,1007.9,65,True,True,21,10,0,0.0,0,36.4,0.0,21.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,mungbean,2024-25,2024-12-01,rainfed,neutral,1007.9,65,False,True,2,0,0,0.0,0,145.1,20.4,132.7,62.0,0.0,water: 2 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2001-02,2001-12-01,limited_2,neutral,1007.9,65,False,True,12,5,0,110.8,2,151.0,76.0,103.1,64.0,0.0,water: 12 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2002-03,2002-12-01,limited_2,el_nino,1007.9,65,False,True,8,2,0,94.4,2,150.1,0.3,29.3,65.0,0.0,water: 8 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2003-04,2003-12-01,limited_2,neutral,1007.9,65,False,True,13,6,0,97.2,2,142.5,0.0,10.5,65.0,0.0,water: 13 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2004-05,2004-12-01,limited_2,el_nino,1007.9,65,False,True,3,0,0,89.4,2,167.3,138.1,143.4,65.0,0.0,water: 3 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2005-06,2005-12-01,limited_2,la_nina,1007.9,65,False,False,0,0,0,44.8,1,167.6,365.4,481.0,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2006-07,2006-12-01,limited_2,el_nino,1007.9,65,False,False,0,0,0,84.7,2,173.1,94.5,130.0,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2007-08,2007-12-01,limited_2,la_nina,1007.9,65,False,False,0,0,0,45.8,1,168.6,63.1,153.2,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2008-09,2008-12-01,limited_2,la_nina,1007.9,65,False,True,1,0,0,89.7,2,175.1,0.0,31.4,68.0,0.0,water: 1 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2009-10,2009-12-01,limited_2,el_nino,1007.9,65,False,True,15,9,0,111.3,2,127.8,0.0,1.8,64.0,0.0,water: 15 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2010-11,2010-12-01,limited_2,la_nina,1007.9,65,False,False,0,0,0,48.5,1,170.2,16.4,117.1,68.0,0.0,none,True,harvest_ready
+munoz,mungbean,2011-12,2011-12-01,limited_2,la_nina,1007.9,65,False,False,0,0,0,91.1,2,164.3,159.1,242.9,64.0,0.0,none,True,harvest_ready
+munoz,mungbean,2012-13,2012-12-01,limited_2,neutral,1007.9,65,False,True,2,0,0,91.0,2,165.1,0.0,52.2,62.0,0.0,water: 2 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2013-14,2013-12-01,limited_2,neutral,1007.9,65,False,True,8,1,0,92.8,2,148.9,0.5,25.6,67.0,0.0,water: 8 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2014-15,2014-12-01,limited_2,el_nino,1007.9,65,False,False,0,0,0,84.9,2,186.5,56.0,133.0,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2015-16,2015-12-01,limited_2,el_nino,1007.9,65,False,True,2,0,0,124.2,2,156.4,409.7,450.3,62.0,0.0,water: 2 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2016-17,2016-12-01,limited_2,neutral,1007.9,65,False,False,0,0,0,46.8,1,166.9,268.9,397.3,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2017-18,2017-12-01,limited_2,la_nina,1007.9,65,False,False,0,0,0,95.5,2,166.5,85.7,156.3,64.0,0.0,none,True,harvest_ready
+munoz,mungbean,2018-19,2018-12-01,limited_2,el_nino,1007.9,65,False,False,0,0,0,104.9,2,175.5,142.4,213.8,61.0,0.0,none,True,harvest_ready
+munoz,mungbean,2019-20,2019-12-01,limited_2,el_nino,1007.9,65,False,False,0,0,0,81.1,2,179.9,43.9,141.8,63.0,0.0,none,True,harvest_ready
+munoz,mungbean,2020-21,2020-12-01,limited_2,la_nina,1007.9,65,False,False,0,0,0,44.0,1,160.7,296.5,406.2,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2021-22,2021-12-01,limited_2,la_nina,1007.9,65,False,True,3,0,0,97.3,2,180.6,23.5,147.7,65.0,0.0,water: 3 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2022-23,2022-12-01,limited_2,la_nina,1007.9,65,False,False,0,0,0,90.0,2,169.5,144.4,223.0,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2023-24,2023-12-01,limited_2,el_nino,1007.9,65,False,True,8,2,0,103.1,2,141.4,1.9,23.8,60.0,0.0,water: 8 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,mungbean,2024-25,2024-12-01,limited_2,neutral,1007.9,65,False,False,0,0,0,42.8,1,159.5,20.4,132.7,62.0,0.0,none,True,harvest_ready
+munoz,mungbean,2001-02,2001-12-01,limited_4,neutral,1007.9,65,False,False,0,0,0,196.4,4,204.2,76.0,103.1,64.0,0.0,none,True,harvest_ready
+munoz,mungbean,2002-03,2002-12-01,limited_4,el_nino,1007.9,65,False,False,0,0,0,181.1,4,193.6,0.3,29.3,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2003-04,2003-12-01,limited_4,neutral,1007.9,65,False,False,0,0,0,184.6,4,197.6,0.0,10.5,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2004-05,2004-12-01,limited_4,el_nino,1007.9,65,False,False,0,0,0,178.9,4,189.1,138.1,143.4,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2005-06,2005-12-01,limited_4,la_nina,1007.9,65,False,False,0,0,0,44.8,1,167.6,365.4,481.0,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2006-07,2006-12-01,limited_4,el_nino,1007.9,65,False,False,0,0,0,129.5,3,180.2,94.5,130.0,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2007-08,2007-12-01,limited_4,la_nina,1007.9,65,False,False,0,0,0,45.8,1,168.6,63.1,153.2,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2008-09,2008-12-01,limited_4,la_nina,1007.9,65,False,False,0,0,0,129.3,3,186.9,0.0,31.4,68.0,0.0,none,True,harvest_ready
+munoz,mungbean,2009-10,2009-12-01,limited_4,el_nino,1007.9,65,False,False,0,0,0,194.9,4,192.7,0.0,1.8,64.0,0.0,none,True,harvest_ready
+munoz,mungbean,2010-11,2010-12-01,limited_4,la_nina,1007.9,65,False,False,0,0,0,48.5,1,170.2,16.4,117.1,68.0,0.0,none,True,harvest_ready
+munoz,mungbean,2011-12,2011-12-01,limited_4,la_nina,1007.9,65,False,False,0,0,0,91.1,2,164.3,159.1,242.9,64.0,0.0,none,True,harvest_ready
+munoz,mungbean,2012-13,2012-12-01,limited_4,neutral,1007.9,65,False,False,0,0,0,130.1,3,182.1,0.0,52.2,62.0,0.0,none,True,harvest_ready
+munoz,mungbean,2013-14,2013-12-01,limited_4,neutral,1007.9,65,False,False,0,0,0,182.2,4,188.5,0.5,25.6,67.0,0.0,none,True,harvest_ready
+munoz,mungbean,2014-15,2014-12-01,limited_4,el_nino,1007.9,65,False,False,0,0,0,130.5,3,187.4,56.0,133.0,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2015-16,2015-12-01,limited_4,el_nino,1007.9,65,False,False,0,0,0,168.8,3,174.6,409.7,450.3,62.0,0.0,none,True,harvest_ready
+munoz,mungbean,2016-17,2016-12-01,limited_4,neutral,1007.9,65,False,False,0,0,0,46.8,1,166.9,268.9,397.3,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2017-18,2017-12-01,limited_4,la_nina,1007.9,65,False,False,0,0,0,95.5,2,166.5,85.7,156.3,64.0,0.0,none,True,harvest_ready
+munoz,mungbean,2018-19,2018-12-01,limited_4,el_nino,1007.9,65,False,False,0,0,0,148.7,3,184.1,142.4,213.8,61.0,0.0,none,True,harvest_ready
+munoz,mungbean,2019-20,2019-12-01,limited_4,el_nino,1007.9,65,False,False,0,0,0,81.1,2,179.9,43.9,141.8,63.0,0.0,none,True,harvest_ready
+munoz,mungbean,2020-21,2020-12-01,limited_4,la_nina,1007.9,65,False,False,0,0,0,44.0,1,160.7,296.5,406.2,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2021-22,2021-12-01,limited_4,la_nina,1007.9,65,False,False,0,0,0,140.0,3,186.2,53.3,147.7,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2022-23,2022-12-01,limited_4,la_nina,1007.9,65,False,False,0,0,0,90.0,2,169.5,144.4,223.0,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2023-24,2023-12-01,limited_4,el_nino,1007.9,65,False,False,0,0,0,189.8,4,183.3,1.9,23.8,60.0,0.0,none,True,harvest_ready
+munoz,mungbean,2024-25,2024-12-01,limited_4,neutral,1007.9,65,False,False,0,0,0,42.8,1,159.5,20.4,132.7,62.0,0.0,none,True,harvest_ready
+munoz,mungbean,2001-02,2001-12-01,full,neutral,1007.9,65,False,False,0,0,0,196.4,4,204.2,76.0,103.1,64.0,0.0,none,True,harvest_ready
+munoz,mungbean,2002-03,2002-12-01,full,el_nino,1007.9,65,False,False,0,0,0,181.1,4,193.6,0.3,29.3,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2003-04,2003-12-01,full,neutral,1007.9,65,False,False,0,0,0,184.6,4,197.6,0.0,10.5,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2004-05,2004-12-01,full,el_nino,1007.9,65,False,False,0,0,0,178.9,4,189.1,138.1,143.4,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2005-06,2005-12-01,full,la_nina,1007.9,65,False,False,0,0,0,44.8,1,167.6,365.4,481.0,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2006-07,2006-12-01,full,el_nino,1007.9,65,False,False,0,0,0,129.5,3,180.2,94.5,130.0,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2007-08,2007-12-01,full,la_nina,1007.9,65,False,False,0,0,0,45.8,1,168.6,63.1,153.2,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2008-09,2008-12-01,full,la_nina,1007.9,65,False,False,0,0,0,129.3,3,186.9,0.0,31.4,68.0,0.0,none,True,harvest_ready
+munoz,mungbean,2009-10,2009-12-01,full,el_nino,1007.9,65,False,False,0,0,0,237.5,5,197.5,0.0,1.8,64.0,0.0,none,True,harvest_ready
+munoz,mungbean,2010-11,2010-12-01,full,la_nina,1007.9,65,False,False,0,0,0,48.5,1,170.2,16.4,117.1,68.0,0.0,none,True,harvest_ready
+munoz,mungbean,2011-12,2011-12-01,full,la_nina,1007.9,65,False,False,0,0,0,91.1,2,164.3,159.1,242.9,64.0,0.0,none,True,harvest_ready
+munoz,mungbean,2012-13,2012-12-01,full,neutral,1007.9,65,False,False,0,0,0,130.1,3,182.1,0.0,52.2,62.0,0.0,none,True,harvest_ready
+munoz,mungbean,2013-14,2013-12-01,full,neutral,1007.9,65,False,False,0,0,0,182.2,4,188.5,0.5,25.6,67.0,0.0,none,True,harvest_ready
+munoz,mungbean,2014-15,2014-12-01,full,el_nino,1007.9,65,False,False,0,0,0,130.5,3,187.4,56.0,133.0,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2015-16,2015-12-01,full,el_nino,1007.9,65,False,False,0,0,0,168.8,3,174.6,409.7,450.3,62.0,0.0,none,True,harvest_ready
+munoz,mungbean,2016-17,2016-12-01,full,neutral,1007.9,65,False,False,0,0,0,46.8,1,166.9,268.9,397.3,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2017-18,2017-12-01,full,la_nina,1007.9,65,False,False,0,0,0,95.5,2,166.5,85.7,156.3,64.0,0.0,none,True,harvest_ready
+munoz,mungbean,2018-19,2018-12-01,full,el_nino,1007.9,65,False,False,0,0,0,148.7,3,184.1,142.4,213.8,61.0,0.0,none,True,harvest_ready
+munoz,mungbean,2019-20,2019-12-01,full,el_nino,1007.9,65,False,False,0,0,0,81.1,2,179.9,43.9,141.8,63.0,0.0,none,True,harvest_ready
+munoz,mungbean,2020-21,2020-12-01,full,la_nina,1007.9,65,False,False,0,0,0,44.0,1,160.7,296.5,406.2,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2021-22,2021-12-01,full,la_nina,1007.9,65,False,False,0,0,0,140.0,3,186.2,53.3,147.7,65.0,0.0,none,True,harvest_ready
+munoz,mungbean,2022-23,2022-12-01,full,la_nina,1007.9,65,False,False,0,0,0,90.0,2,169.5,144.4,223.0,66.0,0.0,none,True,harvest_ready
+munoz,mungbean,2023-24,2023-12-01,full,el_nino,1007.9,65,False,False,0,0,0,189.8,4,183.3,1.9,23.8,60.0,0.0,none,True,harvest_ready
+munoz,mungbean,2024-25,2024-12-01,full,neutral,1007.9,65,False,False,0,0,0,42.8,1,159.5,20.4,132.7,62.0,0.0,none,True,harvest_ready
+munoz,maize,2001-02,2001-12-01,rainfed,neutral,1793.7,110,True,True,18,10,0,0.0,0,120.3,0.0,103.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2002-03,2002-12-01,rainfed,el_nino,1793.7,110,True,True,21,10,0,0.0,0,70.9,0.0,28.7,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,maize,2003-04,2003-12-01,rainfed,neutral,1793.7,110,True,True,21,10,0,0.0,0,61.8,0.0,5.8,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,maize,2004-05,2004-12-01,rainfed,el_nino,1793.7,110,True,True,17,10,0,0.0,0,131.5,138.7,143.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2005-06,2005-12-01,rainfed,la_nina,1793.7,110,False,True,15,7,0,0.0,0,267.8,335.7,501.8,112.0,0.0,water: 15 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2006-07,2006-12-01,rainfed,el_nino,1793.7,110,True,True,18,10,0,0.0,0,147.8,89.3,130.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2007-08,2007-12-01,rainfed,la_nina,1793.7,110,False,True,20,4,0,0.0,0,292.5,40.0,235.9,115.0,0.0,water: 20 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2008-09,2008-12-01,rainfed,la_nina,1793.7,110,True,True,19,10,0,0.0,0,136.6,0.0,31.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2009-10,2009-12-01,rainfed,el_nino,1793.7,110,True,True,10,10,0,0.0,0,17.9,0.0,0.0,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,maize,2010-11,2010-12-01,rainfed,la_nina,1793.7,110,True,True,18,10,0,0.0,0,223.9,0.0,125.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2011-12,2011-12-01,rainfed,la_nina,1793.7,110,False,True,18,7,0,0.0,0,291.9,145.3,363.3,110.0,0.0,water: 18 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2012-13,2012-12-01,rainfed,neutral,1793.7,110,True,True,36,10,0,0.0,0,97.1,0.0,52.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2013-14,2013-12-01,rainfed,neutral,1793.7,110,True,True,20,10,0,0.0,0,72.5,0.0,25.5,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,maize,2014-15,2014-12-01,rainfed,el_nino,1793.7,110,True,True,18,10,0,0.0,0,186.0,23.5,133.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2015-16,2015-12-01,rainfed,el_nino,1793.7,110,True,True,19,10,0,0.0,0,153.1,291.1,450.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2016-17,2016-12-01,rainfed,neutral,1793.7,110,False,True,7,0,0,0.0,0,305.2,223.5,434.9,113.0,0.0,water: 7 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2017-18,2017-12-01,rainfed,la_nina,1793.7,110,True,True,17,10,0,0.0,0,213.9,0.0,156.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2018-19,2018-12-01,rainfed,el_nino,1793.7,110,True,True,24,10,0,0.0,0,167.8,63.8,213.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2019-20,2019-12-01,rainfed,el_nino,1793.7,110,True,True,17,10,0,0.0,0,181.4,21.2,144.6,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2020-21,2020-12-01,rainfed,la_nina,1793.7,110,False,True,11,1,0,0.0,0,294.0,265.9,472.9,114.0,0.0,water: 11 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2021-22,2021-12-01,rainfed,la_nina,1793.7,110,True,True,39,10,0,0.0,0,183.8,0.0,150.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2022-23,2022-12-01,rainfed,la_nina,1793.7,110,True,True,18,10,0,0.0,0,200.5,111.2,229.2,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2023-24,2023-12-01,rainfed,el_nino,1793.7,110,True,True,25,10,0,0.0,0,49.4,0.0,21.0,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,maize,2024-25,2024-12-01,rainfed,neutral,1793.7,110,False,True,24,3,0,0.0,0,258.2,18.7,211.3,107.0,0.0,water: 24 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2001-02,2001-12-01,limited_2,neutral,1793.7,110,True,True,18,10,0,191.6,2,235.6,78.4,103.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2002-03,2002-12-01,limited_2,el_nino,1793.7,110,True,True,18,10,0,174.3,2,246.7,0.0,29.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2003-04,2003-12-01,limited_2,neutral,1793.7,110,True,True,18,10,0,178.9,2,252.0,0.0,19.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2004-05,2004-12-01,limited_2,el_nino,1793.7,110,False,True,12,3,0,162.2,2,310.4,138.7,201.3,109.0,0.0,water: 12 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2005-06,2005-12-01,limited_2,la_nina,1793.7,110,False,False,0,0,0,150.7,2,383.8,335.7,501.8,112.0,0.0,none,True,harvest_ready
+munoz,maize,2006-07,2006-12-01,limited_2,el_nino,1793.7,110,False,True,8,0,0,157.1,2,313.4,89.3,133.5,109.0,0.0,water: 8 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2007-08,2007-12-01,limited_2,la_nina,1793.7,110,False,False,0,0,0,156.9,2,386.2,40.0,235.9,115.0,0.0,none,True,harvest_ready
+munoz,maize,2008-09,2008-12-01,limited_2,la_nina,1793.7,110,False,False,0,0,0,166.3,2,367.5,0.0,100.1,111.0,0.0,none,True,harvest_ready
+munoz,maize,2009-10,2009-12-01,limited_2,el_nino,1793.7,110,True,True,17,10,0,193.2,2,211.8,0.0,1.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2010-11,2010-12-01,limited_2,la_nina,1793.7,110,False,False,0,0,0,159.1,2,383.2,0.0,139.8,115.0,0.0,none,True,harvest_ready
+munoz,maize,2011-12,2011-12-01,limited_2,la_nina,1793.7,110,False,False,0,0,0,162.1,2,370.1,145.3,363.3,110.0,0.0,none,True,harvest_ready
+munoz,maize,2012-13,2012-12-01,limited_2,neutral,1793.7,110,False,True,13,6,0,184.3,2,322.5,9.2,115.1,105.0,0.0,water: 13 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2013-14,2013-12-01,limited_2,neutral,1793.7,110,True,True,17,10,0,171.1,2,245.7,0.0,25.6,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2014-15,2014-12-01,limited_2,el_nino,1793.7,110,False,True,3,0,0,152.2,2,344.2,23.5,141.8,110.0,0.0,water: 3 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2015-16,2015-12-01,limited_2,el_nino,1793.7,110,True,True,16,10,0,213.8,2,239.3,418.9,450.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2016-17,2016-12-01,limited_2,neutral,1793.7,110,False,False,0,0,0,156.3,2,388.7,223.5,434.9,113.0,0.0,none,True,harvest_ready
+munoz,maize,2017-18,2017-12-01,limited_2,la_nina,1793.7,110,False,False,0,0,0,154.2,2,371.9,0.0,175.7,108.0,0.0,none,True,harvest_ready
+munoz,maize,2018-19,2018-12-01,limited_2,el_nino,1793.7,110,True,True,16,10,0,188.5,2,253.9,166.4,213.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2019-20,2019-12-01,limited_2,el_nino,1793.7,110,False,True,4,0,0,157.7,2,351.2,21.2,158.3,110.0,0.0,water: 4 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2020-21,2020-12-01,limited_2,la_nina,1793.7,110,False,False,0,0,0,161.5,2,363.8,265.9,472.9,114.0,0.0,none,True,harvest_ready
+munoz,maize,2021-22,2021-12-01,limited_2,la_nina,1793.7,110,False,True,10,0,0,174.2,2,316.1,71.4,230.1,109.0,0.0,water: 10 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2022-23,2022-12-01,limited_2,la_nina,1793.7,110,False,False,0,0,0,147.8,2,359.0,111.2,233.0,112.0,0.0,none,True,harvest_ready
+munoz,maize,2023-24,2023-12-01,limited_2,el_nino,1793.7,110,True,True,18,10,0,177.3,2,225.6,3.9,23.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,maize,2024-25,2024-12-01,limited_2,neutral,1793.7,110,False,False,0,0,0,161.0,2,366.3,18.7,211.3,107.0,0.0,none,True,harvest_ready
+munoz,maize,2001-02,2001-12-01,limited_4,neutral,1793.7,110,False,False,0,0,0,346.6,4,394.8,78.4,108.6,110.0,0.0,none,True,harvest_ready
+munoz,maize,2002-03,2002-12-01,limited_4,el_nino,1793.7,110,False,False,0,0,0,324.9,4,397.0,0.0,55.7,110.0,0.0,none,True,harvest_ready
+munoz,maize,2003-04,2003-12-01,limited_4,neutral,1793.7,110,False,False,0,0,0,342.5,4,403.8,0.0,19.8,109.0,0.0,none,True,harvest_ready
+munoz,maize,2004-05,2004-12-01,limited_4,el_nino,1793.7,110,False,False,0,0,0,310.5,4,412.8,138.7,201.3,109.0,0.0,none,True,harvest_ready
+munoz,maize,2005-06,2005-12-01,limited_4,la_nina,1793.7,110,False,False,0,0,0,239.8,3,384.0,335.7,501.8,112.0,0.0,none,True,harvest_ready
+munoz,maize,2006-07,2006-12-01,limited_4,el_nino,1793.7,110,False,False,0,0,0,303.4,4,408.7,89.3,133.5,109.0,0.0,none,True,harvest_ready
+munoz,maize,2007-08,2007-12-01,limited_4,la_nina,1793.7,110,False,False,0,0,0,156.9,2,386.2,40.0,235.9,115.0,0.0,none,True,harvest_ready
+munoz,maize,2008-09,2008-12-01,limited_4,la_nina,1793.7,110,False,False,0,0,0,244.4,3,395.3,0.0,100.1,111.0,0.0,none,True,harvest_ready
+munoz,maize,2009-10,2009-12-01,limited_4,el_nino,1793.7,110,False,True,1,0,0,348.8,4,370.3,0.0,1.8,106.0,0.0,water: 1 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,maize,2010-11,2010-12-01,limited_4,la_nina,1793.7,110,False,False,0,0,0,245.8,3,388.7,0.0,139.8,115.0,0.0,none,True,harvest_ready
+munoz,maize,2011-12,2011-12-01,limited_4,la_nina,1793.7,110,False,False,0,0,0,162.1,2,370.1,145.3,363.3,110.0,0.0,none,True,harvest_ready
+munoz,maize,2012-13,2012-12-01,limited_4,neutral,1793.7,110,False,False,0,0,0,345.3,4,396.8,9.2,115.1,105.0,0.0,none,True,harvest_ready
+munoz,maize,2013-14,2013-12-01,limited_4,neutral,1793.7,110,False,False,0,0,0,328.9,4,393.5,0.0,25.6,111.0,0.0,none,True,harvest_ready
+munoz,maize,2014-15,2014-12-01,limited_4,el_nino,1793.7,110,False,False,0,0,0,301.9,4,418.8,23.5,141.8,110.0,0.0,none,True,harvest_ready
+munoz,maize,2015-16,2015-12-01,limited_4,el_nino,1793.7,110,False,False,0,0,0,379.0,4,383.1,418.9,457.5,107.0,0.0,none,True,harvest_ready
+munoz,maize,2016-17,2016-12-01,limited_4,neutral,1793.7,110,False,False,0,0,0,156.3,2,388.7,223.5,434.9,113.0,0.0,none,True,harvest_ready
+munoz,maize,2017-18,2017-12-01,limited_4,la_nina,1793.7,110,False,False,0,0,0,231.4,3,383.2,0.0,175.7,108.0,0.0,none,True,harvest_ready
+munoz,maize,2018-19,2018-12-01,limited_4,el_nino,1793.7,110,False,False,0,0,0,342.6,4,402.9,166.4,213.8,106.0,0.0,none,True,harvest_ready
+munoz,maize,2019-20,2019-12-01,limited_4,el_nino,1793.7,110,False,False,0,0,0,318.8,4,415.1,21.2,158.3,110.0,0.0,none,True,harvest_ready
+munoz,maize,2020-21,2020-12-01,limited_4,la_nina,1793.7,110,False,False,0,0,0,161.5,2,363.8,265.9,472.9,114.0,0.0,none,True,harvest_ready
+munoz,maize,2021-22,2021-12-01,limited_4,la_nina,1793.7,110,False,False,0,0,0,328.1,4,391.5,75.0,230.1,109.0,0.0,none,True,harvest_ready
+munoz,maize,2022-23,2022-12-01,limited_4,la_nina,1793.7,110,False,False,0,0,0,314.5,4,403.9,111.2,233.0,112.0,0.0,none,True,harvest_ready
+munoz,maize,2023-24,2023-12-01,limited_4,el_nino,1793.7,110,False,False,0,0,0,329.5,4,378.1,3.9,25.9,103.0,0.0,none,True,harvest_ready
+munoz,maize,2024-25,2024-12-01,limited_4,neutral,1793.7,110,False,False,0,0,0,161.0,2,366.3,18.7,211.3,107.0,0.0,none,True,harvest_ready
+munoz,maize,2001-02,2001-12-01,full,neutral,1793.7,110,False,False,0,0,0,509.9,6,444.9,78.4,108.6,110.0,0.0,none,True,harvest_ready
+munoz,maize,2002-03,2002-12-01,full,el_nino,1793.7,110,False,False,0,0,0,483.6,6,438.9,14.7,55.7,110.0,0.0,none,True,harvest_ready
+munoz,maize,2003-04,2003-12-01,full,neutral,1793.7,110,False,False,0,0,0,423.4,5,413.4,0.0,19.8,109.0,0.0,none,True,harvest_ready
+munoz,maize,2004-05,2004-12-01,full,el_nino,1793.7,110,False,False,0,0,0,310.5,4,412.8,138.7,201.3,109.0,0.0,none,True,harvest_ready
+munoz,maize,2005-06,2005-12-01,full,la_nina,1793.7,110,False,False,0,0,0,239.8,3,384.0,335.7,501.8,112.0,0.0,none,True,harvest_ready
+munoz,maize,2006-07,2006-12-01,full,el_nino,1793.7,110,False,False,0,0,0,303.4,4,408.7,89.3,133.5,109.0,0.0,none,True,harvest_ready
+munoz,maize,2007-08,2007-12-01,full,la_nina,1793.7,110,False,False,0,0,0,156.9,2,386.2,40.0,235.9,115.0,0.0,none,True,harvest_ready
+munoz,maize,2008-09,2008-12-01,full,la_nina,1793.7,110,False,False,0,0,0,244.4,3,395.3,0.0,100.1,111.0,0.0,none,True,harvest_ready
+munoz,maize,2009-10,2009-12-01,full,el_nino,1793.7,110,False,False,0,0,0,500.1,6,429.1,0.0,1.8,106.0,0.0,none,True,harvest_ready
+munoz,maize,2010-11,2010-12-01,full,la_nina,1793.7,110,False,False,0,0,0,245.8,3,388.7,0.0,139.8,115.0,0.0,none,True,harvest_ready
+munoz,maize,2011-12,2011-12-01,full,la_nina,1793.7,110,False,False,0,0,0,162.1,2,370.1,145.3,363.3,110.0,0.0,none,True,harvest_ready
+munoz,maize,2012-13,2012-12-01,full,neutral,1793.7,110,False,False,0,0,0,345.3,4,396.8,9.2,115.1,105.0,0.0,none,True,harvest_ready
+munoz,maize,2013-14,2013-12-01,full,neutral,1793.7,110,False,False,0,0,0,409.7,5,409.4,0.0,25.6,111.0,0.0,none,True,harvest_ready
+munoz,maize,2014-15,2014-12-01,full,el_nino,1793.7,110,False,False,0,0,0,301.9,4,418.8,23.5,141.8,110.0,0.0,none,True,harvest_ready
+munoz,maize,2015-16,2015-12-01,full,el_nino,1793.7,110,False,False,0,0,0,467.3,5,383.9,418.9,457.5,107.0,0.0,none,True,harvest_ready
+munoz,maize,2016-17,2016-12-01,full,neutral,1793.7,110,False,False,0,0,0,156.3,2,388.7,223.5,434.9,113.0,0.0,none,True,harvest_ready
+munoz,maize,2017-18,2017-12-01,full,la_nina,1793.7,110,False,False,0,0,0,231.4,3,383.2,0.0,175.7,108.0,0.0,none,True,harvest_ready
+munoz,maize,2018-19,2018-12-01,full,el_nino,1793.7,110,False,False,0,0,0,419.3,5,428.6,166.4,213.8,106.0,0.0,none,True,harvest_ready
+munoz,maize,2019-20,2019-12-01,full,el_nino,1793.7,110,False,False,0,0,0,318.8,4,415.1,21.2,158.3,110.0,0.0,none,True,harvest_ready
+munoz,maize,2020-21,2020-12-01,full,la_nina,1793.7,110,False,False,0,0,0,161.5,2,363.8,265.9,472.9,114.0,0.0,none,True,harvest_ready
+munoz,maize,2021-22,2021-12-01,full,la_nina,1793.7,110,False,False,0,0,0,328.1,4,391.5,75.0,230.1,109.0,0.0,none,True,harvest_ready
+munoz,maize,2022-23,2022-12-01,full,la_nina,1793.7,110,False,False,0,0,0,314.5,4,403.9,111.2,233.0,112.0,0.0,none,True,harvest_ready
+munoz,maize,2023-24,2023-12-01,full,el_nino,1793.7,110,False,False,0,0,0,480.8,6,425.2,3.9,25.9,103.0,0.0,none,True,harvest_ready
+munoz,maize,2024-25,2024-12-01,full,neutral,1793.7,110,False,False,0,0,0,161.0,2,366.3,18.7,211.3,107.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2001-02,2001-12-01,rainfed,neutral,1177.8,110,True,True,16,10,0,0.0,0,123.0,0.0,102.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2002-03,2002-12-01,rainfed,el_nino,1177.8,110,True,True,21,10,0,0.0,0,71.2,0.0,28.5,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,sweet_potato,2003-04,2003-12-01,rainfed,neutral,1177.8,110,True,True,20,10,0,0.0,0,63.6,0.0,5.4,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,sweet_potato,2004-05,2004-12-01,rainfed,el_nino,1177.8,110,True,True,16,10,0,0.0,0,129.8,137.6,143.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2005-06,2005-12-01,rainfed,la_nina,1177.8,110,False,True,15,9,0,0.0,0,294.5,307.2,501.8,114.0,0.0,water: 15 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2006-07,2006-12-01,rainfed,el_nino,1177.8,110,True,True,17,10,0,0.0,0,150.1,84.6,130.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2007-08,2007-12-01,rainfed,la_nina,1177.8,110,False,True,21,4,0,0.0,0,326.5,9.8,242.9,117.0,0.0,water: 21 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2008-09,2008-12-01,rainfed,la_nina,1177.8,110,True,True,16,10,0,0.0,0,133.5,0.0,29.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2009-10,2009-12-01,rainfed,el_nino,1177.8,110,True,True,10,10,0,0.0,0,23.0,0.0,0.0,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,sweet_potato,2010-11,2010-12-01,rainfed,la_nina,1177.8,110,True,True,19,10,0,0.0,0,221.9,0.0,120.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2011-12,2011-12-01,rainfed,la_nina,1177.8,110,True,True,19,10,0,0.0,0,181.9,138.6,243.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2012-13,2012-12-01,rainfed,neutral,1177.8,110,True,True,40,10,0,0.0,0,99.9,0.0,52.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2013-14,2013-12-01,rainfed,neutral,1177.8,110,True,True,16,10,0,0.0,0,73.9,0.0,23.2,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,sweet_potato,2014-15,2014-12-01,rainfed,el_nino,1177.8,110,True,True,16,10,0,0.0,0,199.4,9.9,133.0,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2015-16,2015-12-01,rainfed,el_nino,1177.8,110,True,True,17,10,0,0.0,0,161.2,288.9,450.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2016-17,2016-12-01,rainfed,neutral,1177.8,110,False,True,8,2,0,0.0,0,333.4,195.2,434.9,114.0,0.0,water: 8 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2017-18,2017-12-01,rainfed,la_nina,1177.8,110,True,True,20,10,0,0.0,0,216.8,0.0,156.7,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2018-19,2018-12-01,rainfed,el_nino,1177.8,110,True,True,25,10,0,0.0,0,182.5,52.2,213.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2019-20,2019-12-01,rainfed,el_nino,1177.8,110,True,True,18,10,0,0.0,0,183.1,20.7,141.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2020-21,2020-12-01,rainfed,la_nina,1177.8,110,False,True,9,3,0,0.0,0,327.2,237.6,472.9,116.0,0.0,water: 9 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2021-22,2021-12-01,rainfed,la_nina,1177.8,110,True,True,17,10,0,0.0,0,111.7,0.0,83.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2022-23,2022-12-01,rainfed,la_nina,1177.8,110,True,True,16,10,0,0.0,0,222.9,87.8,226.4,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2023-24,2023-12-01,rainfed,el_nino,1177.8,110,True,True,21,10,0,0.0,0,51.0,0.0,21.0,,0.0,water: 10 days with Ks < 0.5 in Veg,True,water_fail;water_stress
+munoz,sweet_potato,2024-25,2024-12-01,rainfed,neutral,1177.8,110,False,True,22,5,0,0.0,0,276.4,0.0,211.3,105.0,0.0,water: 22 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2001-02,2001-12-01,limited_2,neutral,1177.8,110,True,True,16,10,0,193.0,2,244.3,73.5,103.1,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2002-03,2002-12-01,limited_2,el_nino,1177.8,110,True,True,16,10,0,188.7,2,262.6,0.0,29.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2003-04,2003-12-01,limited_2,neutral,1177.8,110,True,True,16,10,0,188.3,2,261.6,0.0,17.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2004-05,2004-12-01,limited_2,el_nino,1177.8,110,False,True,12,6,0,179.5,2,324.6,137.6,201.3,109.0,0.0,water: 12 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2005-06,2005-12-01,limited_2,la_nina,1177.8,110,False,False,0,0,0,161.5,2,429.1,307.2,501.8,114.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2006-07,2006-12-01,limited_2,el_nino,1177.8,110,False,True,7,1,0,180.8,2,336.4,84.6,132.5,108.0,0.0,water: 7 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2007-08,2007-12-01,limited_2,la_nina,1177.8,110,False,False,0,0,0,171.6,2,433.9,9.8,242.9,117.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2008-09,2008-12-01,limited_2,la_nina,1177.8,110,False,True,2,0,0,177.4,2,382.6,0.0,100.1,112.0,0.0,water: 2 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2009-10,2009-12-01,limited_2,el_nino,1177.8,110,True,True,16,10,0,192.3,2,215.9,0.0,1.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2010-11,2010-12-01,limited_2,la_nina,1177.8,110,False,False,0,0,0,169.6,2,400.6,9.2,139.8,117.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2011-12,2011-12-01,limited_2,la_nina,1177.8,110,False,False,0,0,0,176.9,2,408.0,138.6,363.6,111.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2012-13,2012-12-01,limited_2,neutral,1177.8,110,False,True,13,6,0,188.8,2,339.7,0.0,115.1,104.0,0.0,water: 13 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2013-14,2013-12-01,limited_2,neutral,1177.8,110,True,True,16,10,0,188.7,2,265.9,0.0,25.6,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2014-15,2014-12-01,limited_2,el_nino,1177.8,110,False,True,2,0,0,175.6,2,379.2,9.9,141.8,110.0,0.0,water: 2 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2015-16,2015-12-01,limited_2,el_nino,1177.8,110,True,True,14,10,0,213.9,2,259.0,404.7,450.3,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2016-17,2016-12-01,limited_2,neutral,1177.8,110,False,False,0,0,0,173.7,2,431.9,195.2,434.9,114.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2017-18,2017-12-01,limited_2,la_nina,1177.8,110,False,True,1,0,0,176.0,2,358.2,49.9,175.7,107.0,0.0,water: 1 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2018-19,2018-12-01,limited_2,el_nino,1177.8,110,True,True,16,10,0,188.0,2,286.3,138.5,213.8,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2019-20,2019-12-01,limited_2,el_nino,1177.8,110,False,True,5,0,0,172.9,2,369.5,20.7,158.3,110.0,0.0,water: 5 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2020-21,2020-12-01,limited_2,la_nina,1177.8,110,False,False,0,0,0,185.4,2,408.9,251.4,472.9,116.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2021-22,2021-12-01,limited_2,la_nina,1177.8,110,False,True,8,0,0,192.4,2,348.3,63.2,230.1,109.0,0.0,water: 8 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2022-23,2022-12-01,limited_2,la_nina,1177.8,110,False,False,0,0,0,174.0,2,406.5,87.8,233.0,113.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2023-24,2023-12-01,limited_2,el_nino,1177.8,110,True,True,16,10,0,185.1,2,240.5,0.0,23.9,,0.0,water: 10 days with Ks < 0.5 in Repro,True,water_fail;water_stress
+munoz,sweet_potato,2024-25,2024-12-01,limited_2,neutral,1177.8,110,False,False,0,0,0,177.3,2,390.9,0.0,211.3,105.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2001-02,2001-12-01,limited_4,neutral,1177.8,110,False,False,0,0,0,361.2,4,420.3,73.5,108.6,110.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2002-03,2002-12-01,limited_4,el_nino,1177.8,110,False,False,0,0,0,353.3,4,429.0,0.0,55.7,110.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2003-04,2003-12-01,limited_4,neutral,1177.8,110,False,False,0,0,0,366.4,4,436.7,0.0,19.8,109.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2004-05,2004-12-01,limited_4,el_nino,1177.8,110,False,False,0,0,0,347.0,4,450.1,137.6,201.3,109.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2005-06,2005-12-01,limited_4,la_nina,1177.8,110,False,False,0,0,0,253.0,3,429.8,307.2,501.8,114.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2006-07,2006-12-01,limited_4,el_nino,1177.8,110,False,False,0,0,0,348.8,4,441.3,84.6,132.5,108.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2007-08,2007-12-01,limited_4,la_nina,1177.8,110,False,False,0,0,0,171.6,2,433.9,9.8,242.9,117.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2008-09,2008-12-01,limited_4,la_nina,1177.8,110,False,False,0,0,0,352.6,4,436.3,0.0,100.1,112.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2009-10,2009-12-01,limited_4,el_nino,1177.8,110,False,True,1,0,0,359.6,4,385.4,0.0,1.8,104.0,0.0,water: 1 stressed days in Veg/Repro,True,harvest_ready;water_stress
+munoz,sweet_potato,2010-11,2010-12-01,limited_4,la_nina,1177.8,110,False,False,0,0,0,251.8,3,438.4,9.2,139.8,117.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2011-12,2011-12-01,limited_4,la_nina,1177.8,110,False,False,0,0,0,176.9,2,408.0,138.6,363.6,111.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2012-13,2012-12-01,limited_4,neutral,1177.8,110,False,False,0,0,0,360.7,4,425.2,0.0,115.1,104.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2013-14,2013-12-01,limited_4,neutral,1177.8,110,False,False,0,0,0,354.7,4,427.3,0.0,25.6,112.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2014-15,2014-12-01,limited_4,el_nino,1177.8,110,False,False,0,0,0,347.5,4,457.3,9.9,141.8,110.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2015-16,2015-12-01,limited_4,el_nino,1177.8,110,False,False,0,0,0,387.0,4,413.9,404.7,457.5,106.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2016-17,2016-12-01,limited_4,neutral,1177.8,110,False,False,0,0,0,173.7,2,431.9,195.2,434.9,114.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2017-18,2017-12-01,limited_4,la_nina,1177.8,110,False,False,0,0,0,349.0,4,414.5,49.9,175.7,107.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2018-19,2018-12-01,limited_4,el_nino,1177.8,110,False,False,0,0,0,348.7,4,440.7,138.5,213.8,105.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2019-20,2019-12-01,limited_4,el_nino,1177.8,110,False,False,0,0,0,341.5,4,452.0,20.7,158.3,110.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2020-21,2020-12-01,limited_4,la_nina,1177.8,110,False,False,0,0,0,185.4,2,408.9,251.4,472.9,116.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2021-22,2021-12-01,limited_4,la_nina,1177.8,110,False,False,0,0,0,363.0,4,428.7,79.5,230.1,109.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2022-23,2022-12-01,limited_4,la_nina,1177.8,110,False,False,0,0,0,261.7,3,446.4,87.8,233.0,113.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2023-24,2023-12-01,limited_4,el_nino,1177.8,110,False,False,0,0,0,347.5,4,402.9,0.0,25.9,101.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2024-25,2024-12-01,limited_4,neutral,1177.8,110,False,False,0,0,0,177.3,2,390.9,0.0,211.3,105.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2001-02,2001-12-01,full,neutral,1177.8,110,False,False,0,0,0,531.7,6,489.8,73.5,108.6,110.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2002-03,2002-12-01,full,el_nino,1177.8,110,False,False,0,0,0,434.6,5,477.1,0.0,55.7,110.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2003-04,2003-12-01,full,neutral,1177.8,110,False,False,0,0,0,454.8,5,453.7,0.0,19.8,109.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2004-05,2004-12-01,full,el_nino,1177.8,110,False,False,0,0,0,347.0,4,450.1,137.6,201.3,109.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2005-06,2005-12-01,full,la_nina,1177.8,110,False,False,0,0,0,253.0,3,429.8,307.2,501.8,114.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2006-07,2006-12-01,full,el_nino,1177.8,110,False,False,0,0,0,348.8,4,441.3,84.6,132.5,108.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2007-08,2007-12-01,full,la_nina,1177.8,110,False,False,0,0,0,171.6,2,433.9,9.8,242.9,117.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2008-09,2008-12-01,full,la_nina,1177.8,110,False,False,0,0,0,352.6,4,436.3,0.0,100.1,112.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2009-10,2009-12-01,full,el_nino,1177.8,110,False,False,0,0,0,530.8,6,456.1,0.0,1.8,104.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2010-11,2010-12-01,full,la_nina,1177.8,110,False,False,0,0,0,251.8,3,438.4,9.2,139.8,117.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2011-12,2011-12-01,full,la_nina,1177.8,110,False,False,0,0,0,176.9,2,408.0,138.6,363.6,111.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2012-13,2012-12-01,full,neutral,1177.8,110,False,False,0,0,0,360.7,4,425.2,0.0,115.1,104.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2013-14,2013-12-01,full,neutral,1177.8,110,False,False,0,0,0,441.4,5,452.9,0.0,25.6,112.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2014-15,2014-12-01,full,el_nino,1177.8,110,False,False,0,0,0,347.5,4,457.3,9.9,141.8,110.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2015-16,2015-12-01,full,el_nino,1177.8,110,False,False,0,0,0,481.6,5,414.1,404.7,457.5,106.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2016-17,2016-12-01,full,neutral,1177.8,110,False,False,0,0,0,173.7,2,431.9,195.2,434.9,114.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2017-18,2017-12-01,full,la_nina,1177.8,110,False,False,0,0,0,349.0,4,414.5,49.9,175.7,107.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2018-19,2018-12-01,full,el_nino,1177.8,110,False,False,0,0,0,433.3,5,459.5,138.5,213.8,105.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2019-20,2019-12-01,full,el_nino,1177.8,110,False,False,0,0,0,341.5,4,452.0,20.7,158.3,110.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2020-21,2020-12-01,full,la_nina,1177.8,110,False,False,0,0,0,185.4,2,408.9,251.4,472.9,116.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2021-22,2021-12-01,full,la_nina,1177.8,110,False,False,0,0,0,363.0,4,428.7,79.5,230.1,109.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2022-23,2022-12-01,full,la_nina,1177.8,110,False,False,0,0,0,261.7,3,446.4,87.8,233.0,113.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2023-24,2023-12-01,full,el_nino,1177.8,110,False,False,0,0,0,431.0,5,448.4,0.0,25.9,101.0,0.0,none,True,harvest_ready
+munoz,sweet_potato,2024-25,2024-12-01,full,neutral,1177.8,110,False,False,0,0,0,177.3,2,390.9,0.0,211.3,105.0,0.0,none,True,harvest_ready

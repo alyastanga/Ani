@@ -1,0 +1,3115 @@
+muni,crop,dry_season,water,day,from,to,guard
+munoz,rice,2001-02,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2001-02,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2001-02,rainfed,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2001-02,rainfed,32,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2001-02,rainfed,33,Failed,Fallow,g9 tick
+munoz,rice,2002-03,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2002-03,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2002-03,rainfed,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2002-03,rainfed,32,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2002-03,rainfed,33,Failed,Fallow,g9 tick
+munoz,rice,2003-04,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2003-04,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2003-04,rainfed,24,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2003-04,rainfed,34,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2003-04,rainfed,35,Failed,Fallow,g9 tick
+munoz,rice,2004-05,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2004-05,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2004-05,rainfed,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2004-05,rainfed,32,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2004-05,rainfed,33,Failed,Fallow,g9 tick
+munoz,rice,2005-06,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2005-06,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2005-06,rainfed,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2005-06,rainfed,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2005-06,rainfed,54,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2005-06,rainfed,55,Failed,Fallow,g9 tick
+munoz,rice,2006-07,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2006-07,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2006-07,rainfed,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2006-07,rainfed,38,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2006-07,rainfed,39,Failed,Fallow,g9 tick
+munoz,rice,2007-08,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2007-08,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2007-08,rainfed,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2007-08,rainfed,37,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2007-08,rainfed,38,Failed,Fallow,g9 tick
+munoz,rice,2008-09,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2008-09,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2008-09,rainfed,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2008-09,rainfed,33,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2008-09,rainfed,34,Failed,Fallow,g9 tick
+munoz,rice,2009-10,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2009-10,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2009-10,rainfed,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2009-10,rainfed,33,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2009-10,rainfed,34,Failed,Fallow,g9 tick
+munoz,rice,2010-11,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2010-11,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2010-11,rainfed,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2010-11,rainfed,32,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2010-11,rainfed,33,Failed,Fallow,g9 tick
+munoz,rice,2011-12,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2011-12,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2011-12,rainfed,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2011-12,rainfed,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2011-12,rainfed,45,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2011-12,rainfed,46,Failed,Fallow,g9 tick
+munoz,rice,2012-13,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2012-13,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2012-13,rainfed,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2012-13,rainfed,38,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2012-13,rainfed,39,Failed,Fallow,g9 tick
+munoz,rice,2013-14,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2013-14,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2013-14,rainfed,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2013-14,rainfed,31,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2013-14,rainfed,32,Failed,Fallow,g9 tick
+munoz,rice,2014-15,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2014-15,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2014-15,rainfed,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2014-15,rainfed,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2014-15,rainfed,47,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2014-15,rainfed,48,Failed,Fallow,g9 tick
+munoz,rice,2015-16,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2015-16,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2015-16,rainfed,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2015-16,rainfed,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2015-16,rainfed,48,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2015-16,rainfed,49,Failed,Fallow,g9 tick
+munoz,rice,2016-17,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2016-17,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2016-17,rainfed,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2016-17,rainfed,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2016-17,rainfed,89,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2016-17,rainfed,90,Failed,Fallow,g9 tick
+munoz,rice,2017-18,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2017-18,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2017-18,rainfed,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2017-18,rainfed,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2017-18,rainfed,73,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2017-18,rainfed,74,Failed,Fallow,g9 tick
+munoz,rice,2018-19,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2018-19,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2018-19,rainfed,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2018-19,rainfed,41,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2018-19,rainfed,54,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2018-19,rainfed,55,Failed,Fallow,g9 tick
+munoz,rice,2019-20,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2019-20,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2019-20,rainfed,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2019-20,rainfed,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2019-20,rainfed,54,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2019-20,rainfed,55,Failed,Fallow,g9 tick
+munoz,rice,2020-21,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2020-21,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2020-21,rainfed,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2020-21,rainfed,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2020-21,rainfed,86,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2020-21,rainfed,87,Failed,Fallow,g9 tick
+munoz,rice,2021-22,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2021-22,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2021-22,rainfed,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2021-22,rainfed,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2021-22,rainfed,47,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2021-22,rainfed,48,Failed,Fallow,g9 tick
+munoz,rice,2022-23,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2022-23,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2022-23,rainfed,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2022-23,rainfed,31,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2022-23,rainfed,32,Failed,Fallow,g9 tick
+munoz,rice,2023-24,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2023-24,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2023-24,rainfed,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2023-24,rainfed,30,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2023-24,rainfed,31,Failed,Fallow,g9 tick
+munoz,rice,2024-25,rainfed,0,Fallow,Prep,g2 sow
+munoz,rice,2024-25,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2024-25,rainfed,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2024-25,rainfed,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2024-25,rainfed,58,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2024-25,rainfed,59,Failed,Fallow,g9 tick
+munoz,rice,2001-02,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2001-02,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2001-02,limited_2,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2001-02,limited_2,37,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2001-02,limited_2,38,Failed,Fallow,g9 tick
+munoz,rice,2002-03,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2002-03,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2002-03,limited_2,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2002-03,limited_2,41,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2002-03,limited_2,42,Failed,Fallow,g9 tick
+munoz,rice,2003-04,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2003-04,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2003-04,limited_2,24,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2003-04,limited_2,34,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2003-04,limited_2,35,Failed,Fallow,g9 tick
+munoz,rice,2004-05,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2004-05,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2004-05,limited_2,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2004-05,limited_2,41,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2004-05,limited_2,42,Failed,Fallow,g9 tick
+munoz,rice,2005-06,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2005-06,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2005-06,limited_2,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2005-06,limited_2,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2005-06,limited_2,54,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2005-06,limited_2,55,Failed,Fallow,g9 tick
+munoz,rice,2006-07,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2006-07,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2006-07,limited_2,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2006-07,limited_2,44,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2006-07,limited_2,45,Failed,Fallow,g9 tick
+munoz,rice,2007-08,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2007-08,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2007-08,limited_2,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2007-08,limited_2,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2007-08,limited_2,75,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2007-08,limited_2,76,Failed,Fallow,g9 tick
+munoz,rice,2008-09,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2008-09,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2008-09,limited_2,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2008-09,limited_2,47,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2008-09,limited_2,48,Failed,Fallow,g9 tick
+munoz,rice,2009-10,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2009-10,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2009-10,limited_2,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2009-10,limited_2,33,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2009-10,limited_2,34,Failed,Fallow,g9 tick
+munoz,rice,2010-11,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2010-11,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2010-11,limited_2,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2010-11,limited_2,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2010-11,limited_2,79,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2010-11,limited_2,80,Failed,Fallow,g9 tick
+munoz,rice,2011-12,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2011-12,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2011-12,limited_2,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2011-12,limited_2,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2011-12,limited_2,61,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2011-12,limited_2,62,Failed,Fallow,g9 tick
+munoz,rice,2012-13,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2012-13,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2012-13,limited_2,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2012-13,limited_2,41,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2012-13,limited_2,54,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2012-13,limited_2,55,Failed,Fallow,g9 tick
+munoz,rice,2013-14,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2013-14,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2013-14,limited_2,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2013-14,limited_2,41,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2013-14,limited_2,42,Failed,Fallow,g9 tick
+munoz,rice,2014-15,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2014-15,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2014-15,limited_2,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2014-15,limited_2,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2014-15,limited_2,47,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2014-15,limited_2,48,Failed,Fallow,g9 tick
+munoz,rice,2015-16,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2015-16,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2015-16,limited_2,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2015-16,limited_2,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2015-16,limited_2,48,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2015-16,limited_2,49,Failed,Fallow,g9 tick
+munoz,rice,2016-17,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2016-17,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2016-17,limited_2,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2016-17,limited_2,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2016-17,limited_2,89,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2016-17,limited_2,90,Failed,Fallow,g9 tick
+munoz,rice,2017-18,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2017-18,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2017-18,limited_2,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2017-18,limited_2,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2017-18,limited_2,73,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2017-18,limited_2,74,Failed,Fallow,g9 tick
+munoz,rice,2018-19,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2018-19,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2018-19,limited_2,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2018-19,limited_2,41,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2018-19,limited_2,54,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2018-19,limited_2,55,Failed,Fallow,g9 tick
+munoz,rice,2019-20,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2019-20,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2019-20,limited_2,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2019-20,limited_2,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2019-20,limited_2,55,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2019-20,limited_2,56,Failed,Fallow,g9 tick
+munoz,rice,2020-21,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2020-21,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2020-21,limited_2,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2020-21,limited_2,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2020-21,limited_2,86,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2020-21,limited_2,87,Failed,Fallow,g9 tick
+munoz,rice,2021-22,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2021-22,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2021-22,limited_2,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2021-22,limited_2,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2021-22,limited_2,50,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2021-22,limited_2,51,Failed,Fallow,g9 tick
+munoz,rice,2022-23,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2022-23,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2022-23,limited_2,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2022-23,limited_2,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2022-23,limited_2,67,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2022-23,limited_2,68,Failed,Fallow,g9 tick
+munoz,rice,2023-24,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2023-24,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2023-24,limited_2,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2023-24,limited_2,38,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2023-24,limited_2,39,Failed,Fallow,g9 tick
+munoz,rice,2024-25,limited_2,0,Fallow,Prep,g2 sow
+munoz,rice,2024-25,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2024-25,limited_2,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2024-25,limited_2,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2024-25,limited_2,60,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2024-25,limited_2,61,Failed,Fallow,g9 tick
+munoz,rice,2001-02,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2001-02,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2001-02,limited_4,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2001-02,limited_4,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2001-02,limited_4,48,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2001-02,limited_4,49,Failed,Fallow,g9 tick
+munoz,rice,2002-03,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2002-03,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2002-03,limited_4,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2002-03,limited_4,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2002-03,limited_4,49,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2002-03,limited_4,50,Failed,Fallow,g9 tick
+munoz,rice,2003-04,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2003-04,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2003-04,limited_4,24,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2003-04,limited_4,43,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2003-04,limited_4,44,Failed,Fallow,g9 tick
+munoz,rice,2004-05,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2004-05,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2004-05,limited_4,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2004-05,limited_4,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2004-05,limited_4,52,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2004-05,limited_4,53,Failed,Fallow,g9 tick
+munoz,rice,2005-06,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2005-06,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2005-06,limited_4,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2005-06,limited_4,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2005-06,limited_4,80,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2005-06,limited_4,81,Failed,Fallow,g9 tick
+munoz,rice,2006-07,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2006-07,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2006-07,limited_4,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2006-07,limited_4,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2006-07,limited_4,57,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2006-07,limited_4,58,Failed,Fallow,g9 tick
+munoz,rice,2007-08,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2007-08,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2007-08,limited_4,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2007-08,limited_4,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2007-08,limited_4,75,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2007-08,limited_4,76,Failed,Fallow,g9 tick
+munoz,rice,2008-09,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2008-09,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2008-09,limited_4,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2008-09,limited_4,48,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2008-09,limited_4,56,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2008-09,limited_4,57,Failed,Fallow,g9 tick
+munoz,rice,2009-10,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2009-10,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2009-10,limited_4,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2009-10,limited_4,42,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2009-10,limited_4,43,Failed,Fallow,g9 tick
+munoz,rice,2010-11,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2010-11,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2010-11,limited_4,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2010-11,limited_4,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2010-11,limited_4,80,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2010-11,limited_4,81,Failed,Fallow,g9 tick
+munoz,rice,2011-12,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2011-12,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2011-12,limited_4,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2011-12,limited_4,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2011-12,limited_4,66,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2011-12,limited_4,67,Failed,Fallow,g9 tick
+munoz,rice,2012-13,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2012-13,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2012-13,limited_4,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2012-13,limited_4,41,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2012-13,limited_4,56,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2012-13,limited_4,57,Failed,Fallow,g9 tick
+munoz,rice,2013-14,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2013-14,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2013-14,limited_4,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2013-14,limited_4,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2013-14,limited_4,52,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2013-14,limited_4,53,Failed,Fallow,g9 tick
+munoz,rice,2014-15,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2014-15,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2014-15,limited_4,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2014-15,limited_4,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2014-15,limited_4,66,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2014-15,limited_4,67,Failed,Fallow,g9 tick
+munoz,rice,2015-16,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2015-16,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2015-16,limited_4,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2015-16,limited_4,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2015-16,limited_4,57,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2015-16,limited_4,58,Failed,Fallow,g9 tick
+munoz,rice,2016-17,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2016-17,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2016-17,limited_4,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2016-17,limited_4,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2016-17,limited_4,89,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2016-17,limited_4,90,Failed,Fallow,g9 tick
+munoz,rice,2017-18,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2017-18,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2017-18,limited_4,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2017-18,limited_4,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2017-18,limited_4,73,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2017-18,limited_4,74,Failed,Fallow,g9 tick
+munoz,rice,2018-19,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2018-19,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2018-19,limited_4,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2018-19,limited_4,41,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2018-19,limited_4,54,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2018-19,limited_4,55,Failed,Fallow,g9 tick
+munoz,rice,2019-20,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2019-20,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2019-20,limited_4,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2019-20,limited_4,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2019-20,limited_4,58,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2019-20,limited_4,59,Failed,Fallow,g9 tick
+munoz,rice,2020-21,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2020-21,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2020-21,limited_4,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2020-21,limited_4,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2020-21,limited_4,86,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2020-21,limited_4,87,Failed,Fallow,g9 tick
+munoz,rice,2021-22,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2021-22,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2021-22,limited_4,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2021-22,limited_4,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2021-22,limited_4,54,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2021-22,limited_4,55,Failed,Fallow,g9 tick
+munoz,rice,2022-23,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2022-23,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2022-23,limited_4,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2022-23,limited_4,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2022-23,limited_4,67,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2022-23,limited_4,68,Failed,Fallow,g9 tick
+munoz,rice,2023-24,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2023-24,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2023-24,limited_4,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2023-24,limited_4,40,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2023-24,limited_4,47,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2023-24,limited_4,48,Failed,Fallow,g9 tick
+munoz,rice,2024-25,limited_4,0,Fallow,Prep,g2 sow
+munoz,rice,2024-25,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2024-25,limited_4,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2024-25,limited_4,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2024-25,limited_4,64,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,rice,2024-25,limited_4,65,Failed,Fallow,g9 tick
+munoz,rice,2001-02,full,0,Fallow,Prep,g2 sow
+munoz,rice,2001-02,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2001-02,full,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2001-02,full,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2001-02,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2001-02,full,106,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2001-02,full,107,Harvest,Fallow,g8 tick
+munoz,rice,2002-03,full,0,Fallow,Prep,g2 sow
+munoz,rice,2002-03,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2002-03,full,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2002-03,full,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2002-03,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2002-03,full,106,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2002-03,full,107,Harvest,Fallow,g8 tick
+munoz,rice,2003-04,full,0,Fallow,Prep,g2 sow
+munoz,rice,2003-04,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2003-04,full,24,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2003-04,full,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2003-04,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2003-04,full,105,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2003-04,full,106,Harvest,Fallow,g8 tick
+munoz,rice,2004-05,full,0,Fallow,Prep,g2 sow
+munoz,rice,2004-05,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2004-05,full,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2004-05,full,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2004-05,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2004-05,full,105,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2004-05,full,106,Harvest,Fallow,g8 tick
+munoz,rice,2005-06,full,0,Fallow,Prep,g2 sow
+munoz,rice,2005-06,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2005-06,full,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2005-06,full,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2005-06,full,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2005-06,full,108,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2005-06,full,109,Harvest,Fallow,g8 tick
+munoz,rice,2006-07,full,0,Fallow,Prep,g2 sow
+munoz,rice,2006-07,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2006-07,full,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2006-07,full,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2006-07,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2006-07,full,105,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2006-07,full,106,Harvest,Fallow,g8 tick
+munoz,rice,2007-08,full,0,Fallow,Prep,g2 sow
+munoz,rice,2007-08,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2007-08,full,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2007-08,full,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2007-08,full,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2007-08,full,111,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2007-08,full,112,Harvest,Fallow,g8 tick
+munoz,rice,2008-09,full,0,Fallow,Prep,g2 sow
+munoz,rice,2008-09,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2008-09,full,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2008-09,full,48,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2008-09,full,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2008-09,full,107,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2008-09,full,108,Harvest,Fallow,g8 tick
+munoz,rice,2009-10,full,0,Fallow,Prep,g2 sow
+munoz,rice,2009-10,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2009-10,full,23,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2009-10,full,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2009-10,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2009-10,full,102,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2009-10,full,103,Harvest,Fallow,g8 tick
+munoz,rice,2010-11,full,0,Fallow,Prep,g2 sow
+munoz,rice,2010-11,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2010-11,full,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2010-11,full,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2010-11,full,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2010-11,full,111,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2010-11,full,112,Harvest,Fallow,g8 tick
+munoz,rice,2011-12,full,0,Fallow,Prep,g2 sow
+munoz,rice,2011-12,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2011-12,full,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2011-12,full,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2011-12,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2011-12,full,106,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2011-12,full,107,Harvest,Fallow,g8 tick
+munoz,rice,2012-13,full,0,Fallow,Prep,g2 sow
+munoz,rice,2012-13,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2012-13,full,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2012-13,full,41,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2012-13,full,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2012-13,full,101,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2012-13,full,102,Harvest,Fallow,g8 tick
+munoz,rice,2013-14,full,0,Fallow,Prep,g2 sow
+munoz,rice,2013-14,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2013-14,full,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2013-14,full,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2013-14,full,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2013-14,full,107,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2013-14,full,108,Harvest,Fallow,g8 tick
+munoz,rice,2014-15,full,0,Fallow,Prep,g2 sow
+munoz,rice,2014-15,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2014-15,full,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2014-15,full,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2014-15,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2014-15,full,106,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2014-15,full,107,Harvest,Fallow,g8 tick
+munoz,rice,2015-16,full,0,Fallow,Prep,g2 sow
+munoz,rice,2015-16,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2015-16,full,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2015-16,full,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2015-16,full,85,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2015-16,full,103,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2015-16,full,104,Harvest,Fallow,g8 tick
+munoz,rice,2016-17,full,0,Fallow,Prep,g2 sow
+munoz,rice,2016-17,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2016-17,full,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2016-17,full,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2016-17,full,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2016-17,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2016-17,full,110,Harvest,Fallow,g8 tick
+munoz,rice,2017-18,full,0,Fallow,Prep,g2 sow
+munoz,rice,2017-18,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2017-18,full,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2017-18,full,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2017-18,full,85,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2017-18,full,104,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2017-18,full,105,Harvest,Fallow,g8 tick
+munoz,rice,2018-19,full,0,Fallow,Prep,g2 sow
+munoz,rice,2018-19,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2018-19,full,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2018-19,full,41,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2018-19,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2018-19,full,102,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2018-19,full,103,Harvest,Fallow,g8 tick
+munoz,rice,2019-20,full,0,Fallow,Prep,g2 sow
+munoz,rice,2019-20,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2019-20,full,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2019-20,full,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2019-20,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2019-20,full,105,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2019-20,full,106,Harvest,Fallow,g8 tick
+munoz,rice,2020-21,full,0,Fallow,Prep,g2 sow
+munoz,rice,2020-21,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2020-21,full,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2020-21,full,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2020-21,full,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2020-21,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2020-21,full,110,Harvest,Fallow,g8 tick
+munoz,rice,2021-22,full,0,Fallow,Prep,g2 sow
+munoz,rice,2021-22,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2021-22,full,22,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2021-22,full,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2021-22,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2021-22,full,105,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2021-22,full,106,Harvest,Fallow,g8 tick
+munoz,rice,2022-23,full,0,Fallow,Prep,g2 sow
+munoz,rice,2022-23,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2022-23,full,21,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2022-23,full,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2022-23,full,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2022-23,full,108,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2022-23,full,109,Harvest,Fallow,g8 tick
+munoz,rice,2023-24,full,0,Fallow,Prep,g2 sow
+munoz,rice,2023-24,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2023-24,full,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2023-24,full,40,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2023-24,full,81,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2023-24,full,100,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2023-24,full,101,Harvest,Fallow,g8 tick
+munoz,rice,2024-25,full,0,Fallow,Prep,g2 sow
+munoz,rice,2024-25,full,0,Prep,Estab,g3 d >= d_prep
+munoz,rice,2024-25,full,20,Estab,Veg,g4 G >= f_e G_mat
+munoz,rice,2024-25,full,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,rice,2024-25,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,rice,2024-25,full,103,Mature,Harvest,g7 G >= G_mat
+munoz,rice,2024-25,full,104,Harvest,Fallow,g8 tick
+munoz,onion,2001-02,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2001-02,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2001-02,rainfed,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2001-02,rainfed,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2001-02,rainfed,31,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2001-02,rainfed,32,Failed,Fallow,g9 tick
+munoz,onion,2002-03,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2002-03,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2002-03,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2002-03,rainfed,21,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2002-03,rainfed,22,Failed,Fallow,g9 tick
+munoz,onion,2003-04,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2003-04,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2003-04,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2003-04,rainfed,21,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2003-04,rainfed,22,Failed,Fallow,g9 tick
+munoz,onion,2004-05,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2004-05,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2004-05,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2004-05,rainfed,28,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2004-05,rainfed,29,Failed,Fallow,g9 tick
+munoz,onion,2005-06,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2005-06,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2005-06,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2005-06,rainfed,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2005-06,rainfed,50,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2005-06,rainfed,51,Failed,Fallow,g9 tick
+munoz,onion,2006-07,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2006-07,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2006-07,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2006-07,rainfed,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2006-07,rainfed,35,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2006-07,rainfed,36,Failed,Fallow,g9 tick
+munoz,onion,2007-08,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2007-08,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2007-08,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2007-08,rainfed,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2007-08,rainfed,38,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2007-08,rainfed,39,Failed,Fallow,g9 tick
+munoz,onion,2008-09,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2008-09,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2008-09,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2008-09,rainfed,29,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2008-09,rainfed,30,Failed,Fallow,g9 tick
+munoz,onion,2009-10,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2009-10,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2009-10,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2009-10,rainfed,22,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2009-10,rainfed,23,Failed,Fallow,g9 tick
+munoz,onion,2010-11,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2010-11,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2010-11,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2010-11,rainfed,26,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2010-11,rainfed,27,Failed,Fallow,g9 tick
+munoz,onion,2011-12,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2011-12,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2011-12,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2011-12,rainfed,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2011-12,rainfed,41,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2011-12,rainfed,42,Failed,Fallow,g9 tick
+munoz,onion,2012-13,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2012-13,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2012-13,rainfed,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2012-13,rainfed,20,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2012-13,rainfed,21,Failed,Fallow,g9 tick
+munoz,onion,2013-14,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2013-14,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2013-14,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2013-14,rainfed,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2013-14,rainfed,32,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2013-14,rainfed,33,Failed,Fallow,g9 tick
+munoz,onion,2014-15,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2014-15,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2014-15,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2014-15,rainfed,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2014-15,rainfed,44,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2014-15,rainfed,45,Failed,Fallow,g9 tick
+munoz,onion,2015-16,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2015-16,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2015-16,rainfed,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2015-16,rainfed,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2015-16,rainfed,46,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2015-16,rainfed,47,Failed,Fallow,g9 tick
+munoz,onion,2016-17,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2016-17,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2016-17,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2016-17,rainfed,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2016-17,rainfed,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2016-17,rainfed,112,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2016-17,rainfed,113,Harvest,Fallow,g8 tick
+munoz,onion,2017-18,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2017-18,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2017-18,rainfed,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2017-18,rainfed,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2017-18,rainfed,44,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2017-18,rainfed,45,Failed,Fallow,g9 tick
+munoz,onion,2018-19,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2018-19,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2018-19,rainfed,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2018-19,rainfed,20,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2018-19,rainfed,21,Failed,Fallow,g9 tick
+munoz,onion,2019-20,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2019-20,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2019-20,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2019-20,rainfed,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2019-20,rainfed,42,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2019-20,rainfed,43,Failed,Fallow,g9 tick
+munoz,onion,2020-21,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2020-21,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2020-21,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2020-21,rainfed,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2020-21,rainfed,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2020-21,rainfed,112,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2020-21,rainfed,113,Harvest,Fallow,g8 tick
+munoz,onion,2021-22,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2021-22,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2021-22,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2021-22,rainfed,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2021-22,rainfed,48,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2021-22,rainfed,49,Failed,Fallow,g9 tick
+munoz,onion,2022-23,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2022-23,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2022-23,rainfed,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2022-23,rainfed,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2022-23,rainfed,65,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2022-23,rainfed,66,Failed,Fallow,g9 tick
+munoz,onion,2023-24,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2023-24,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2023-24,rainfed,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2023-24,rainfed,20,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2023-24,rainfed,21,Failed,Fallow,g9 tick
+munoz,onion,2024-25,rainfed,0,Fallow,Prep,g2 sow
+munoz,onion,2024-25,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2024-25,rainfed,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2024-25,rainfed,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2024-25,rainfed,57,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2024-25,rainfed,58,Failed,Fallow,g9 tick
+munoz,onion,2001-02,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2001-02,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2001-02,limited_2,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2001-02,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2001-02,limited_2,37,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2001-02,limited_2,38,Failed,Fallow,g9 tick
+munoz,onion,2002-03,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2002-03,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2002-03,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2002-03,limited_2,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2002-03,limited_2,41,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2002-03,limited_2,42,Failed,Fallow,g9 tick
+munoz,onion,2003-04,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2003-04,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2003-04,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2003-04,limited_2,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2003-04,limited_2,34,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2003-04,limited_2,35,Failed,Fallow,g9 tick
+munoz,onion,2004-05,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2004-05,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2004-05,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2004-05,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2004-05,limited_2,42,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2004-05,limited_2,43,Failed,Fallow,g9 tick
+munoz,onion,2005-06,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2005-06,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2005-06,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2005-06,limited_2,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2005-06,limited_2,50,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2005-06,limited_2,51,Failed,Fallow,g9 tick
+munoz,onion,2006-07,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2006-07,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2006-07,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2006-07,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2006-07,limited_2,48,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2006-07,limited_2,49,Failed,Fallow,g9 tick
+munoz,onion,2007-08,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2007-08,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2007-08,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2007-08,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2007-08,limited_2,72,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2007-08,limited_2,73,Failed,Fallow,g9 tick
+munoz,onion,2008-09,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2008-09,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2008-09,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2008-09,limited_2,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2008-09,limited_2,49,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2008-09,limited_2,50,Failed,Fallow,g9 tick
+munoz,onion,2009-10,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2009-10,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2009-10,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2009-10,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2009-10,limited_2,33,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2009-10,limited_2,34,Failed,Fallow,g9 tick
+munoz,onion,2010-11,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2010-11,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2010-11,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2010-11,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2010-11,limited_2,78,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2010-11,limited_2,79,Failed,Fallow,g9 tick
+munoz,onion,2011-12,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2011-12,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2011-12,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2011-12,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2011-12,limited_2,62,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2011-12,limited_2,63,Failed,Fallow,g9 tick
+munoz,onion,2012-13,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2012-13,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2012-13,limited_2,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2012-13,limited_2,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2012-13,limited_2,54,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2012-13,limited_2,55,Failed,Fallow,g9 tick
+munoz,onion,2013-14,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2013-14,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2013-14,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2013-14,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2013-14,limited_2,41,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2013-14,limited_2,42,Failed,Fallow,g9 tick
+munoz,onion,2014-15,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2014-15,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2014-15,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2014-15,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2014-15,limited_2,65,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2014-15,limited_2,66,Failed,Fallow,g9 tick
+munoz,onion,2015-16,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2015-16,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2015-16,limited_2,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2015-16,limited_2,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2015-16,limited_2,46,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2015-16,limited_2,47,Failed,Fallow,g9 tick
+munoz,onion,2016-17,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2016-17,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2016-17,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2016-17,limited_2,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2016-17,limited_2,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2016-17,limited_2,112,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2016-17,limited_2,113,Harvest,Fallow,g8 tick
+munoz,onion,2017-18,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2017-18,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2017-18,limited_2,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2017-18,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2017-18,limited_2,44,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2017-18,limited_2,45,Failed,Fallow,g9 tick
+munoz,onion,2018-19,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2018-19,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2018-19,limited_2,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2018-19,limited_2,28,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2018-19,limited_2,51,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2018-19,limited_2,52,Failed,Fallow,g9 tick
+munoz,onion,2019-20,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2019-20,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2019-20,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2019-20,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2019-20,limited_2,56,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2019-20,limited_2,57,Failed,Fallow,g9 tick
+munoz,onion,2020-21,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2020-21,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2020-21,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2020-21,limited_2,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2020-21,limited_2,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2020-21,limited_2,112,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2020-21,limited_2,113,Harvest,Fallow,g8 tick
+munoz,onion,2021-22,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2021-22,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2021-22,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2021-22,limited_2,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2021-22,limited_2,48,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2021-22,limited_2,49,Failed,Fallow,g9 tick
+munoz,onion,2022-23,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2022-23,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2022-23,limited_2,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2022-23,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2022-23,limited_2,65,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2022-23,limited_2,66,Failed,Fallow,g9 tick
+munoz,onion,2023-24,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2023-24,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2023-24,limited_2,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2023-24,limited_2,28,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2023-24,limited_2,39,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2023-24,limited_2,40,Failed,Fallow,g9 tick
+munoz,onion,2024-25,limited_2,0,Fallow,Prep,g2 sow
+munoz,onion,2024-25,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2024-25,limited_2,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2024-25,limited_2,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2024-25,limited_2,58,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2024-25,limited_2,59,Failed,Fallow,g9 tick
+munoz,onion,2001-02,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2001-02,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2001-02,limited_4,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2001-02,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2001-02,limited_4,48,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2001-02,limited_4,49,Failed,Fallow,g9 tick
+munoz,onion,2002-03,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2002-03,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2002-03,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2002-03,limited_4,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2002-03,limited_4,51,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2002-03,limited_4,52,Failed,Fallow,g9 tick
+munoz,onion,2003-04,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2003-04,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2003-04,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2003-04,limited_4,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2003-04,limited_4,44,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2003-04,limited_4,45,Failed,Fallow,g9 tick
+munoz,onion,2004-05,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2004-05,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2004-05,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2004-05,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2004-05,limited_4,52,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2004-05,limited_4,53,Failed,Fallow,g9 tick
+munoz,onion,2005-06,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2005-06,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2005-06,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2005-06,limited_4,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2005-06,limited_4,76,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2005-06,limited_4,77,Failed,Fallow,g9 tick
+munoz,onion,2006-07,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2006-07,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2006-07,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2006-07,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2006-07,limited_4,60,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2006-07,limited_4,61,Failed,Fallow,g9 tick
+munoz,onion,2007-08,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2007-08,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2007-08,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2007-08,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2007-08,limited_4,72,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2007-08,limited_4,73,Failed,Fallow,g9 tick
+munoz,onion,2008-09,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2008-09,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2008-09,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2008-09,limited_4,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2008-09,limited_4,59,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2008-09,limited_4,60,Failed,Fallow,g9 tick
+munoz,onion,2009-10,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2009-10,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2009-10,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2009-10,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2009-10,limited_4,44,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2009-10,limited_4,45,Failed,Fallow,g9 tick
+munoz,onion,2010-11,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2010-11,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2010-11,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2010-11,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2010-11,limited_4,78,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2010-11,limited_4,79,Failed,Fallow,g9 tick
+munoz,onion,2011-12,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2011-12,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2011-12,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2011-12,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2011-12,limited_4,72,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2011-12,limited_4,73,Failed,Fallow,g9 tick
+munoz,onion,2012-13,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2012-13,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2012-13,limited_4,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2012-13,limited_4,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2012-13,limited_4,56,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2012-13,limited_4,57,Failed,Fallow,g9 tick
+munoz,onion,2013-14,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2013-14,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2013-14,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2013-14,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2013-14,limited_4,52,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2013-14,limited_4,53,Failed,Fallow,g9 tick
+munoz,onion,2014-15,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2014-15,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2014-15,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2014-15,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2014-15,limited_4,68,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2014-15,limited_4,69,Failed,Fallow,g9 tick
+munoz,onion,2015-16,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2015-16,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2015-16,limited_4,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2015-16,limited_4,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2015-16,limited_4,54,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2015-16,limited_4,55,Failed,Fallow,g9 tick
+munoz,onion,2016-17,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2016-17,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2016-17,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2016-17,limited_4,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2016-17,limited_4,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2016-17,limited_4,112,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2016-17,limited_4,113,Harvest,Fallow,g8 tick
+munoz,onion,2017-18,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2017-18,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2017-18,limited_4,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2017-18,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2017-18,limited_4,71,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2017-18,limited_4,72,Failed,Fallow,g9 tick
+munoz,onion,2018-19,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2018-19,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2018-19,limited_4,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2018-19,limited_4,28,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2018-19,limited_4,55,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2018-19,limited_4,56,Failed,Fallow,g9 tick
+munoz,onion,2019-20,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2019-20,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2019-20,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2019-20,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2019-20,limited_4,58,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2019-20,limited_4,59,Failed,Fallow,g9 tick
+munoz,onion,2020-21,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2020-21,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2020-21,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2020-21,limited_4,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2020-21,limited_4,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2020-21,limited_4,112,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2020-21,limited_4,113,Harvest,Fallow,g8 tick
+munoz,onion,2021-22,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2021-22,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2021-22,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2021-22,limited_4,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2021-22,limited_4,80,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2021-22,limited_4,81,Failed,Fallow,g9 tick
+munoz,onion,2022-23,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2022-23,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2022-23,limited_4,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2022-23,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2022-23,limited_4,67,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2022-23,limited_4,68,Failed,Fallow,g9 tick
+munoz,onion,2023-24,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2023-24,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2023-24,limited_4,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2023-24,limited_4,28,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2023-24,limited_4,48,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2023-24,limited_4,49,Failed,Fallow,g9 tick
+munoz,onion,2024-25,limited_4,0,Fallow,Prep,g2 sow
+munoz,onion,2024-25,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2024-25,limited_4,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2024-25,limited_4,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2024-25,limited_4,67,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,onion,2024-25,limited_4,68,Failed,Fallow,g9 tick
+munoz,onion,2001-02,full,0,Fallow,Prep,g2 sow
+munoz,onion,2001-02,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2001-02,full,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2001-02,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2001-02,full,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2001-02,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2001-02,full,111,Harvest,Fallow,g8 tick
+munoz,onion,2002-03,full,0,Fallow,Prep,g2 sow
+munoz,onion,2002-03,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2002-03,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2002-03,full,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2002-03,full,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2002-03,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2002-03,full,111,Harvest,Fallow,g8 tick
+munoz,onion,2003-04,full,0,Fallow,Prep,g2 sow
+munoz,onion,2003-04,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2003-04,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2003-04,full,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2003-04,full,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2003-04,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2003-04,full,110,Harvest,Fallow,g8 tick
+munoz,onion,2004-05,full,0,Fallow,Prep,g2 sow
+munoz,onion,2004-05,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2004-05,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2004-05,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2004-05,full,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2004-05,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2004-05,full,110,Harvest,Fallow,g8 tick
+munoz,onion,2005-06,full,0,Fallow,Prep,g2 sow
+munoz,onion,2005-06,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2005-06,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2005-06,full,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2005-06,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2005-06,full,111,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2005-06,full,112,Harvest,Fallow,g8 tick
+munoz,onion,2006-07,full,0,Fallow,Prep,g2 sow
+munoz,onion,2006-07,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2006-07,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2006-07,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2006-07,full,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2006-07,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2006-07,full,110,Harvest,Fallow,g8 tick
+munoz,onion,2007-08,full,0,Fallow,Prep,g2 sow
+munoz,onion,2007-08,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2007-08,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2007-08,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2007-08,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2007-08,full,113,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2007-08,full,114,Harvest,Fallow,g8 tick
+munoz,onion,2008-09,full,0,Fallow,Prep,g2 sow
+munoz,onion,2008-09,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2008-09,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2008-09,full,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2008-09,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2008-09,full,111,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2008-09,full,112,Harvest,Fallow,g8 tick
+munoz,onion,2009-10,full,0,Fallow,Prep,g2 sow
+munoz,onion,2009-10,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2009-10,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2009-10,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2009-10,full,81,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2009-10,full,107,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2009-10,full,108,Harvest,Fallow,g8 tick
+munoz,onion,2010-11,full,0,Fallow,Prep,g2 sow
+munoz,onion,2010-11,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2010-11,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2010-11,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2010-11,full,85,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2010-11,full,113,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2010-11,full,114,Harvest,Fallow,g8 tick
+munoz,onion,2011-12,full,0,Fallow,Prep,g2 sow
+munoz,onion,2011-12,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2011-12,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2011-12,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2011-12,full,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2011-12,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2011-12,full,111,Harvest,Fallow,g8 tick
+munoz,onion,2012-13,full,0,Fallow,Prep,g2 sow
+munoz,onion,2012-13,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2012-13,full,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2012-13,full,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2012-13,full,79,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2012-13,full,107,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2012-13,full,108,Harvest,Fallow,g8 tick
+munoz,onion,2013-14,full,0,Fallow,Prep,g2 sow
+munoz,onion,2013-14,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2013-14,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2013-14,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2013-14,full,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2013-14,full,111,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2013-14,full,112,Harvest,Fallow,g8 tick
+munoz,onion,2014-15,full,0,Fallow,Prep,g2 sow
+munoz,onion,2014-15,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2014-15,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2014-15,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2014-15,full,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2014-15,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2014-15,full,111,Harvest,Fallow,g8 tick
+munoz,onion,2015-16,full,0,Fallow,Prep,g2 sow
+munoz,onion,2015-16,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2015-16,full,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2015-16,full,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2015-16,full,81,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2015-16,full,108,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2015-16,full,109,Harvest,Fallow,g8 tick
+munoz,onion,2016-17,full,0,Fallow,Prep,g2 sow
+munoz,onion,2016-17,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2016-17,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2016-17,full,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2016-17,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2016-17,full,112,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2016-17,full,113,Harvest,Fallow,g8 tick
+munoz,onion,2017-18,full,0,Fallow,Prep,g2 sow
+munoz,onion,2017-18,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2017-18,full,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2017-18,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2017-18,full,81,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2017-18,full,108,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2017-18,full,109,Harvest,Fallow,g8 tick
+munoz,onion,2018-19,full,0,Fallow,Prep,g2 sow
+munoz,onion,2018-19,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2018-19,full,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2018-19,full,28,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2018-19,full,80,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2018-19,full,107,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2018-19,full,108,Harvest,Fallow,g8 tick
+munoz,onion,2019-20,full,0,Fallow,Prep,g2 sow
+munoz,onion,2019-20,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2019-20,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2019-20,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2019-20,full,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2019-20,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2019-20,full,111,Harvest,Fallow,g8 tick
+munoz,onion,2020-21,full,0,Fallow,Prep,g2 sow
+munoz,onion,2020-21,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2020-21,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2020-21,full,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2020-21,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2020-21,full,112,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2020-21,full,113,Harvest,Fallow,g8 tick
+munoz,onion,2021-22,full,0,Fallow,Prep,g2 sow
+munoz,onion,2021-22,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2021-22,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2021-22,full,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2021-22,full,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2021-22,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2021-22,full,110,Harvest,Fallow,g8 tick
+munoz,onion,2022-23,full,0,Fallow,Prep,g2 sow
+munoz,onion,2022-23,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2022-23,full,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2022-23,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2022-23,full,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2022-23,full,111,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2022-23,full,112,Harvest,Fallow,g8 tick
+munoz,onion,2023-24,full,0,Fallow,Prep,g2 sow
+munoz,onion,2023-24,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2023-24,full,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2023-24,full,28,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2023-24,full,79,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2023-24,full,105,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2023-24,full,106,Harvest,Fallow,g8 tick
+munoz,onion,2024-25,full,0,Fallow,Prep,g2 sow
+munoz,onion,2024-25,full,0,Prep,Estab,g3 d >= d_prep
+munoz,onion,2024-25,full,10,Estab,Veg,g4 G >= f_e G_mat
+munoz,onion,2024-25,full,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,onion,2024-25,full,80,Repro,Mature,g6 G >= f_r G_mat
+munoz,onion,2024-25,full,108,Mature,Harvest,g7 G >= G_mat
+munoz,onion,2024-25,full,109,Harvest,Fallow,g8 tick
+munoz,mungbean,2001-02,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2001-02,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2001-02,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2001-02,rainfed,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2001-02,rainfed,47,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,mungbean,2001-02,rainfed,48,Failed,Fallow,g9 tick
+munoz,mungbean,2002-03,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2002-03,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2002-03,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2002-03,rainfed,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2002-03,rainfed,39,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,mungbean,2002-03,rainfed,40,Failed,Fallow,g9 tick
+munoz,mungbean,2003-04,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2003-04,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2003-04,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2003-04,rainfed,32,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,mungbean,2003-04,rainfed,33,Failed,Fallow,g9 tick
+munoz,mungbean,2004-05,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2004-05,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2004-05,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2004-05,rainfed,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2004-05,rainfed,44,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,mungbean,2004-05,rainfed,45,Failed,Fallow,g9 tick
+munoz,mungbean,2005-06,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2005-06,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2005-06,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2005-06,rainfed,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2005-06,rainfed,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2005-06,rainfed,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2005-06,rainfed,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2006-07,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2006-07,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2006-07,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2006-07,rainfed,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2006-07,rainfed,49,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,mungbean,2006-07,rainfed,50,Failed,Fallow,g9 tick
+munoz,mungbean,2007-08,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2007-08,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2007-08,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2007-08,rainfed,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2007-08,rainfed,54,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2007-08,rainfed,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2007-08,rainfed,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2008-09,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2008-09,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2008-09,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2008-09,rainfed,34,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2008-09,rainfed,51,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,mungbean,2008-09,rainfed,52,Failed,Fallow,g9 tick
+munoz,mungbean,2009-10,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2009-10,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2009-10,rainfed,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2009-10,rainfed,24,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,mungbean,2009-10,rainfed,25,Failed,Fallow,g9 tick
+munoz,mungbean,2010-11,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2010-11,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2010-11,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2010-11,rainfed,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2010-11,rainfed,54,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2010-11,rainfed,68,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2010-11,rainfed,69,Harvest,Fallow,g8 tick
+munoz,mungbean,2011-12,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2011-12,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2011-12,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2011-12,rainfed,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2011-12,rainfed,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2011-12,rainfed,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2011-12,rainfed,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2012-13,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2012-13,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2012-13,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2012-13,rainfed,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2012-13,rainfed,49,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2012-13,rainfed,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2012-13,rainfed,63,Harvest,Fallow,g8 tick
+munoz,mungbean,2013-14,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2013-14,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2013-14,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2013-14,rainfed,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2013-14,rainfed,38,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,mungbean,2013-14,rainfed,39,Failed,Fallow,g9 tick
+munoz,mungbean,2014-15,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2014-15,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2014-15,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2014-15,rainfed,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2014-15,rainfed,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2014-15,rainfed,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2014-15,rainfed,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2015-16,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2015-16,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2015-16,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2015-16,rainfed,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2015-16,rainfed,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2015-16,rainfed,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2015-16,rainfed,63,Harvest,Fallow,g8 tick
+munoz,mungbean,2016-17,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2016-17,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2016-17,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2016-17,rainfed,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2016-17,rainfed,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2016-17,rainfed,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2016-17,rainfed,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2017-18,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2017-18,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2017-18,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2017-18,rainfed,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2017-18,rainfed,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2017-18,rainfed,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2017-18,rainfed,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2018-19,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2018-19,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2018-19,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2018-19,rainfed,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2018-19,rainfed,49,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2018-19,rainfed,61,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2018-19,rainfed,62,Harvest,Fallow,g8 tick
+munoz,mungbean,2019-20,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2019-20,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2019-20,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2019-20,rainfed,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2019-20,rainfed,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2019-20,rainfed,63,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2019-20,rainfed,64,Harvest,Fallow,g8 tick
+munoz,mungbean,2020-21,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2020-21,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2020-21,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2020-21,rainfed,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2020-21,rainfed,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2020-21,rainfed,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2020-21,rainfed,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2021-22,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2021-22,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2021-22,rainfed,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2021-22,rainfed,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2021-22,rainfed,50,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,mungbean,2021-22,rainfed,51,Failed,Fallow,g9 tick
+munoz,mungbean,2022-23,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2022-23,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2022-23,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2022-23,rainfed,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2022-23,rainfed,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2022-23,rainfed,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2022-23,rainfed,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2023-24,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2023-24,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2023-24,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2023-24,rainfed,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2023-24,rainfed,32,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,mungbean,2023-24,rainfed,33,Failed,Fallow,g9 tick
+munoz,mungbean,2024-25,rainfed,0,Fallow,Prep,g2 sow
+munoz,mungbean,2024-25,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2024-25,rainfed,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2024-25,rainfed,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2024-25,rainfed,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2024-25,rainfed,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2024-25,rainfed,63,Harvest,Fallow,g8 tick
+munoz,mungbean,2001-02,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2001-02,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2001-02,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2001-02,limited_2,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2001-02,limited_2,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2001-02,limited_2,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2001-02,limited_2,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2002-03,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2002-03,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2002-03,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2002-03,limited_2,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2002-03,limited_2,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2002-03,limited_2,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2002-03,limited_2,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2003-04,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2003-04,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2003-04,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2003-04,limited_2,34,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2003-04,limited_2,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2003-04,limited_2,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2003-04,limited_2,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2004-05,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2004-05,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2004-05,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2004-05,limited_2,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2004-05,limited_2,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2004-05,limited_2,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2004-05,limited_2,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2005-06,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2005-06,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2005-06,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2005-06,limited_2,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2005-06,limited_2,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2005-06,limited_2,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2005-06,limited_2,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2006-07,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2006-07,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2006-07,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2006-07,limited_2,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2006-07,limited_2,51,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2006-07,limited_2,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2006-07,limited_2,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2007-08,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2007-08,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2007-08,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2007-08,limited_2,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2007-08,limited_2,54,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2007-08,limited_2,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2007-08,limited_2,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2008-09,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2008-09,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2008-09,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2008-09,limited_2,34,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2008-09,limited_2,56,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2008-09,limited_2,68,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2008-09,limited_2,69,Harvest,Fallow,g8 tick
+munoz,mungbean,2009-10,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2009-10,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2009-10,limited_2,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2009-10,limited_2,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2009-10,limited_2,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2009-10,limited_2,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2009-10,limited_2,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2010-11,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2010-11,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2010-11,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2010-11,limited_2,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2010-11,limited_2,54,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2010-11,limited_2,68,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2010-11,limited_2,69,Harvest,Fallow,g8 tick
+munoz,mungbean,2011-12,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2011-12,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2011-12,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2011-12,limited_2,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2011-12,limited_2,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2011-12,limited_2,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2011-12,limited_2,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2012-13,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2012-13,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2012-13,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2012-13,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2012-13,limited_2,49,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2012-13,limited_2,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2012-13,limited_2,63,Harvest,Fallow,g8 tick
+munoz,mungbean,2013-14,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2013-14,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2013-14,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2013-14,limited_2,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2013-14,limited_2,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2013-14,limited_2,67,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2013-14,limited_2,68,Harvest,Fallow,g8 tick
+munoz,mungbean,2014-15,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2014-15,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2014-15,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2014-15,limited_2,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2014-15,limited_2,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2014-15,limited_2,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2014-15,limited_2,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2015-16,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2015-16,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2015-16,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2015-16,limited_2,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2015-16,limited_2,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2015-16,limited_2,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2015-16,limited_2,63,Harvest,Fallow,g8 tick
+munoz,mungbean,2016-17,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2016-17,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2016-17,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2016-17,limited_2,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2016-17,limited_2,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2016-17,limited_2,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2016-17,limited_2,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2017-18,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2017-18,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2017-18,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2017-18,limited_2,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2017-18,limited_2,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2017-18,limited_2,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2017-18,limited_2,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2018-19,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2018-19,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2018-19,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2018-19,limited_2,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2018-19,limited_2,49,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2018-19,limited_2,61,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2018-19,limited_2,62,Harvest,Fallow,g8 tick
+munoz,mungbean,2019-20,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2019-20,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2019-20,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2019-20,limited_2,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2019-20,limited_2,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2019-20,limited_2,63,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2019-20,limited_2,64,Harvest,Fallow,g8 tick
+munoz,mungbean,2020-21,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2020-21,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2020-21,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2020-21,limited_2,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2020-21,limited_2,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2020-21,limited_2,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2020-21,limited_2,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2021-22,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2021-22,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2021-22,limited_2,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2021-22,limited_2,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2021-22,limited_2,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2021-22,limited_2,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2021-22,limited_2,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2022-23,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2022-23,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2022-23,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2022-23,limited_2,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2022-23,limited_2,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2022-23,limited_2,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2022-23,limited_2,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2023-24,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2023-24,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2023-24,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2023-24,limited_2,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2023-24,limited_2,47,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2023-24,limited_2,60,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2023-24,limited_2,61,Harvest,Fallow,g8 tick
+munoz,mungbean,2024-25,limited_2,0,Fallow,Prep,g2 sow
+munoz,mungbean,2024-25,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2024-25,limited_2,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2024-25,limited_2,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2024-25,limited_2,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2024-25,limited_2,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2024-25,limited_2,63,Harvest,Fallow,g8 tick
+munoz,mungbean,2001-02,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2001-02,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2001-02,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2001-02,limited_4,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2001-02,limited_4,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2001-02,limited_4,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2001-02,limited_4,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2002-03,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2002-03,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2002-03,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2002-03,limited_4,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2002-03,limited_4,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2002-03,limited_4,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2002-03,limited_4,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2003-04,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2003-04,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2003-04,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2003-04,limited_4,34,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2003-04,limited_4,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2003-04,limited_4,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2003-04,limited_4,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2004-05,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2004-05,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2004-05,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2004-05,limited_4,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2004-05,limited_4,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2004-05,limited_4,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2004-05,limited_4,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2005-06,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2005-06,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2005-06,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2005-06,limited_4,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2005-06,limited_4,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2005-06,limited_4,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2005-06,limited_4,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2006-07,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2006-07,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2006-07,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2006-07,limited_4,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2006-07,limited_4,51,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2006-07,limited_4,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2006-07,limited_4,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2007-08,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2007-08,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2007-08,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2007-08,limited_4,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2007-08,limited_4,54,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2007-08,limited_4,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2007-08,limited_4,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2008-09,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2008-09,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2008-09,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2008-09,limited_4,34,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2008-09,limited_4,56,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2008-09,limited_4,68,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2008-09,limited_4,69,Harvest,Fallow,g8 tick
+munoz,mungbean,2009-10,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2009-10,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2009-10,limited_4,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2009-10,limited_4,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2009-10,limited_4,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2009-10,limited_4,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2009-10,limited_4,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2010-11,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2010-11,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2010-11,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2010-11,limited_4,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2010-11,limited_4,54,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2010-11,limited_4,68,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2010-11,limited_4,69,Harvest,Fallow,g8 tick
+munoz,mungbean,2011-12,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2011-12,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2011-12,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2011-12,limited_4,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2011-12,limited_4,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2011-12,limited_4,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2011-12,limited_4,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2012-13,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2012-13,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2012-13,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2012-13,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2012-13,limited_4,49,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2012-13,limited_4,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2012-13,limited_4,63,Harvest,Fallow,g8 tick
+munoz,mungbean,2013-14,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2013-14,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2013-14,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2013-14,limited_4,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2013-14,limited_4,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2013-14,limited_4,67,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2013-14,limited_4,68,Harvest,Fallow,g8 tick
+munoz,mungbean,2014-15,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2014-15,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2014-15,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2014-15,limited_4,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2014-15,limited_4,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2014-15,limited_4,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2014-15,limited_4,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2015-16,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2015-16,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2015-16,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2015-16,limited_4,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2015-16,limited_4,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2015-16,limited_4,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2015-16,limited_4,63,Harvest,Fallow,g8 tick
+munoz,mungbean,2016-17,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2016-17,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2016-17,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2016-17,limited_4,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2016-17,limited_4,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2016-17,limited_4,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2016-17,limited_4,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2017-18,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2017-18,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2017-18,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2017-18,limited_4,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2017-18,limited_4,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2017-18,limited_4,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2017-18,limited_4,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2018-19,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2018-19,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2018-19,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2018-19,limited_4,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2018-19,limited_4,49,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2018-19,limited_4,61,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2018-19,limited_4,62,Harvest,Fallow,g8 tick
+munoz,mungbean,2019-20,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2019-20,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2019-20,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2019-20,limited_4,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2019-20,limited_4,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2019-20,limited_4,63,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2019-20,limited_4,64,Harvest,Fallow,g8 tick
+munoz,mungbean,2020-21,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2020-21,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2020-21,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2020-21,limited_4,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2020-21,limited_4,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2020-21,limited_4,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2020-21,limited_4,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2021-22,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2021-22,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2021-22,limited_4,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2021-22,limited_4,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2021-22,limited_4,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2021-22,limited_4,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2021-22,limited_4,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2022-23,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2022-23,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2022-23,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2022-23,limited_4,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2022-23,limited_4,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2022-23,limited_4,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2022-23,limited_4,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2023-24,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2023-24,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2023-24,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2023-24,limited_4,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2023-24,limited_4,47,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2023-24,limited_4,60,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2023-24,limited_4,61,Harvest,Fallow,g8 tick
+munoz,mungbean,2024-25,limited_4,0,Fallow,Prep,g2 sow
+munoz,mungbean,2024-25,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2024-25,limited_4,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2024-25,limited_4,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2024-25,limited_4,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2024-25,limited_4,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2024-25,limited_4,63,Harvest,Fallow,g8 tick
+munoz,mungbean,2001-02,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2001-02,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2001-02,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2001-02,full,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2001-02,full,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2001-02,full,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2001-02,full,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2002-03,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2002-03,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2002-03,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2002-03,full,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2002-03,full,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2002-03,full,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2002-03,full,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2003-04,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2003-04,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2003-04,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2003-04,full,34,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2003-04,full,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2003-04,full,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2003-04,full,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2004-05,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2004-05,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2004-05,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2004-05,full,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2004-05,full,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2004-05,full,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2004-05,full,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2005-06,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2005-06,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2005-06,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2005-06,full,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2005-06,full,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2005-06,full,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2005-06,full,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2006-07,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2006-07,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2006-07,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2006-07,full,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2006-07,full,51,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2006-07,full,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2006-07,full,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2007-08,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2007-08,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2007-08,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2007-08,full,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2007-08,full,54,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2007-08,full,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2007-08,full,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2008-09,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2008-09,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2008-09,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2008-09,full,34,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2008-09,full,56,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2008-09,full,68,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2008-09,full,69,Harvest,Fallow,g8 tick
+munoz,mungbean,2009-10,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2009-10,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2009-10,full,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2009-10,full,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2009-10,full,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2009-10,full,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2009-10,full,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2010-11,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2010-11,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2010-11,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2010-11,full,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2010-11,full,54,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2010-11,full,68,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2010-11,full,69,Harvest,Fallow,g8 tick
+munoz,mungbean,2011-12,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2011-12,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2011-12,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2011-12,full,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2011-12,full,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2011-12,full,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2011-12,full,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2012-13,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2012-13,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2012-13,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2012-13,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2012-13,full,49,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2012-13,full,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2012-13,full,63,Harvest,Fallow,g8 tick
+munoz,mungbean,2013-14,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2013-14,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2013-14,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2013-14,full,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2013-14,full,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2013-14,full,67,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2013-14,full,68,Harvest,Fallow,g8 tick
+munoz,mungbean,2014-15,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2014-15,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2014-15,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2014-15,full,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2014-15,full,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2014-15,full,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2014-15,full,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2015-16,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2015-16,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2015-16,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2015-16,full,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2015-16,full,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2015-16,full,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2015-16,full,63,Harvest,Fallow,g8 tick
+munoz,mungbean,2016-17,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2016-17,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2016-17,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2016-17,full,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2016-17,full,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2016-17,full,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2016-17,full,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2017-18,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2017-18,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2017-18,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2017-18,full,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2017-18,full,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2017-18,full,64,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2017-18,full,65,Harvest,Fallow,g8 tick
+munoz,mungbean,2018-19,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2018-19,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2018-19,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2018-19,full,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2018-19,full,49,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2018-19,full,61,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2018-19,full,62,Harvest,Fallow,g8 tick
+munoz,mungbean,2019-20,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2019-20,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2019-20,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2019-20,full,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2019-20,full,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2019-20,full,63,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2019-20,full,64,Harvest,Fallow,g8 tick
+munoz,mungbean,2020-21,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2020-21,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2020-21,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2020-21,full,31,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2020-21,full,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2020-21,full,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2020-21,full,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2021-22,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2021-22,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2021-22,full,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2021-22,full,33,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2021-22,full,53,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2021-22,full,65,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2021-22,full,66,Harvest,Fallow,g8 tick
+munoz,mungbean,2022-23,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2022-23,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2022-23,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2022-23,full,32,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2022-23,full,52,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2022-23,full,66,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2022-23,full,67,Harvest,Fallow,g8 tick
+munoz,mungbean,2023-24,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2023-24,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2023-24,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2023-24,full,29,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2023-24,full,47,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2023-24,full,60,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2023-24,full,61,Harvest,Fallow,g8 tick
+munoz,mungbean,2024-25,full,0,Fallow,Prep,g2 sow
+munoz,mungbean,2024-25,full,0,Prep,Estab,g3 d >= d_prep
+munoz,mungbean,2024-25,full,11,Estab,Veg,g4 G >= f_e G_mat
+munoz,mungbean,2024-25,full,30,Veg,Repro,g5 G >= f_v G_mat
+munoz,mungbean,2024-25,full,50,Repro,Mature,g6 G >= f_r G_mat
+munoz,mungbean,2024-25,full,62,Mature,Harvest,g7 G >= G_mat
+munoz,mungbean,2024-25,full,63,Harvest,Fallow,g8 tick
+munoz,maize,2001-02,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2001-02,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2001-02,rainfed,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2001-02,rainfed,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2001-02,rainfed,59,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2001-02,rainfed,60,Failed,Fallow,g9 tick
+munoz,maize,2002-03,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2002-03,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2002-03,rainfed,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2002-03,rainfed,49,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2002-03,rainfed,50,Failed,Fallow,g9 tick
+munoz,maize,2003-04,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2003-04,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2003-04,rainfed,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2003-04,rainfed,46,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2003-04,rainfed,47,Failed,Fallow,g9 tick
+munoz,maize,2004-05,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2004-05,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2004-05,rainfed,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2004-05,rainfed,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2004-05,rainfed,63,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2004-05,rainfed,64,Failed,Fallow,g9 tick
+munoz,maize,2005-06,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2005-06,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2005-06,rainfed,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2005-06,rainfed,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2005-06,rainfed,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2005-06,rainfed,112,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2005-06,rainfed,113,Harvest,Fallow,g8 tick
+munoz,maize,2006-07,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2006-07,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2006-07,rainfed,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2006-07,rainfed,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2006-07,rainfed,67,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2006-07,rainfed,68,Failed,Fallow,g9 tick
+munoz,maize,2007-08,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2007-08,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2007-08,rainfed,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2007-08,rainfed,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2007-08,rainfed,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2007-08,rainfed,115,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2007-08,rainfed,116,Harvest,Fallow,g8 tick
+munoz,maize,2008-09,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2008-09,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2008-09,rainfed,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2008-09,rainfed,55,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2008-09,rainfed,68,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2008-09,rainfed,69,Failed,Fallow,g9 tick
+munoz,maize,2009-10,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2009-10,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2009-10,rainfed,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2009-10,rainfed,29,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2009-10,rainfed,30,Failed,Fallow,g9 tick
+munoz,maize,2010-11,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2010-11,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2010-11,rainfed,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2010-11,rainfed,53,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2010-11,rainfed,88,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2010-11,rainfed,89,Failed,Fallow,g9 tick
+munoz,maize,2011-12,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2011-12,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2011-12,rainfed,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2011-12,rainfed,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2011-12,rainfed,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2011-12,rainfed,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2011-12,rainfed,111,Harvest,Fallow,g8 tick
+munoz,maize,2012-13,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2012-13,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2012-13,rainfed,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2012-13,rainfed,48,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2012-13,rainfed,56,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2012-13,rainfed,57,Failed,Fallow,g9 tick
+munoz,maize,2013-14,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2013-14,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2013-14,rainfed,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2013-14,rainfed,50,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2013-14,rainfed,51,Failed,Fallow,g9 tick
+munoz,maize,2014-15,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2014-15,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2014-15,rainfed,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2014-15,rainfed,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2014-15,rainfed,74,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2014-15,rainfed,75,Failed,Fallow,g9 tick
+munoz,maize,2015-16,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2015-16,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2015-16,rainfed,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2015-16,rainfed,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2015-16,rainfed,69,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2015-16,rainfed,70,Failed,Fallow,g9 tick
+munoz,maize,2016-17,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2016-17,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2016-17,rainfed,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2016-17,rainfed,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2016-17,rainfed,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2016-17,rainfed,113,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2016-17,rainfed,114,Harvest,Fallow,g8 tick
+munoz,maize,2017-18,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2017-18,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2017-18,rainfed,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2017-18,rainfed,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2017-18,rainfed,82,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2017-18,rainfed,83,Failed,Fallow,g9 tick
+munoz,maize,2018-19,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2018-19,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2018-19,rainfed,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2018-19,rainfed,48,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2018-19,rainfed,68,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2018-19,rainfed,69,Failed,Fallow,g9 tick
+munoz,maize,2019-20,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2019-20,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2019-20,rainfed,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2019-20,rainfed,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2019-20,rainfed,72,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2019-20,rainfed,73,Failed,Fallow,g9 tick
+munoz,maize,2020-21,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2020-21,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2020-21,rainfed,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2020-21,rainfed,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2020-21,rainfed,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2020-21,rainfed,114,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2020-21,rainfed,115,Harvest,Fallow,g8 tick
+munoz,maize,2021-22,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2021-22,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2021-22,rainfed,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2021-22,rainfed,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2021-22,rainfed,81,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2021-22,rainfed,82,Failed,Fallow,g9 tick
+munoz,maize,2022-23,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2022-23,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2022-23,rainfed,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2022-23,rainfed,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2022-23,rainfed,80,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2022-23,rainfed,81,Failed,Fallow,g9 tick
+munoz,maize,2023-24,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2023-24,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2023-24,rainfed,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2023-24,rainfed,41,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2023-24,rainfed,42,Failed,Fallow,g9 tick
+munoz,maize,2024-25,rainfed,0,Fallow,Prep,g2 sow
+munoz,maize,2024-25,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2024-25,rainfed,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2024-25,rainfed,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2024-25,rainfed,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2024-25,rainfed,107,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2024-25,rainfed,108,Harvest,Fallow,g8 tick
+munoz,maize,2001-02,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2001-02,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2001-02,limited_2,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2001-02,limited_2,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2001-02,limited_2,81,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2001-02,limited_2,82,Failed,Fallow,g9 tick
+munoz,maize,2002-03,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2002-03,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2002-03,limited_2,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2002-03,limited_2,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2002-03,limited_2,83,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2002-03,limited_2,84,Failed,Fallow,g9 tick
+munoz,maize,2003-04,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2003-04,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2003-04,limited_2,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2003-04,limited_2,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2003-04,limited_2,85,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2003-04,limited_2,86,Failed,Fallow,g9 tick
+munoz,maize,2004-05,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2004-05,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2004-05,limited_2,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2004-05,limited_2,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2004-05,limited_2,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2004-05,limited_2,109,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2004-05,limited_2,110,Harvest,Fallow,g8 tick
+munoz,maize,2005-06,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2005-06,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2005-06,limited_2,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2005-06,limited_2,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2005-06,limited_2,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2005-06,limited_2,112,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2005-06,limited_2,113,Harvest,Fallow,g8 tick
+munoz,maize,2006-07,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2006-07,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2006-07,limited_2,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2006-07,limited_2,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2006-07,limited_2,85,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2006-07,limited_2,109,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2006-07,limited_2,110,Harvest,Fallow,g8 tick
+munoz,maize,2007-08,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2007-08,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2007-08,limited_2,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2007-08,limited_2,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2007-08,limited_2,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2007-08,limited_2,115,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2007-08,limited_2,116,Harvest,Fallow,g8 tick
+munoz,maize,2008-09,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2008-09,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2008-09,limited_2,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2008-09,limited_2,55,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2008-09,limited_2,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2008-09,limited_2,111,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2008-09,limited_2,112,Harvest,Fallow,g8 tick
+munoz,maize,2009-10,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2009-10,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2009-10,limited_2,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2009-10,limited_2,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2009-10,limited_2,75,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2009-10,limited_2,76,Failed,Fallow,g9 tick
+munoz,maize,2010-11,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2010-11,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2010-11,limited_2,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2010-11,limited_2,53,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2010-11,limited_2,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2010-11,limited_2,115,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2010-11,limited_2,116,Harvest,Fallow,g8 tick
+munoz,maize,2011-12,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2011-12,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2011-12,limited_2,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2011-12,limited_2,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2011-12,limited_2,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2011-12,limited_2,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2011-12,limited_2,111,Harvest,Fallow,g8 tick
+munoz,maize,2012-13,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2012-13,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2012-13,limited_2,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2012-13,limited_2,48,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2012-13,limited_2,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2012-13,limited_2,105,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2012-13,limited_2,106,Harvest,Fallow,g8 tick
+munoz,maize,2013-14,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2013-14,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2013-14,limited_2,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2013-14,limited_2,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2013-14,limited_2,86,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2013-14,limited_2,87,Failed,Fallow,g9 tick
+munoz,maize,2014-15,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2014-15,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2014-15,limited_2,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2014-15,limited_2,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2014-15,limited_2,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2014-15,limited_2,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2014-15,limited_2,111,Harvest,Fallow,g8 tick
+munoz,maize,2015-16,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2015-16,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2015-16,limited_2,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2015-16,limited_2,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2015-16,limited_2,84,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2015-16,limited_2,85,Failed,Fallow,g9 tick
+munoz,maize,2016-17,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2016-17,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2016-17,limited_2,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2016-17,limited_2,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2016-17,limited_2,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2016-17,limited_2,113,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2016-17,limited_2,114,Harvest,Fallow,g8 tick
+munoz,maize,2017-18,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2017-18,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2017-18,limited_2,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2017-18,limited_2,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2017-18,limited_2,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2017-18,limited_2,108,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2017-18,limited_2,109,Harvest,Fallow,g8 tick
+munoz,maize,2018-19,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2018-19,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2018-19,limited_2,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2018-19,limited_2,48,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2018-19,limited_2,81,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2018-19,limited_2,82,Failed,Fallow,g9 tick
+munoz,maize,2019-20,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2019-20,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2019-20,limited_2,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2019-20,limited_2,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2019-20,limited_2,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2019-20,limited_2,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2019-20,limited_2,111,Harvest,Fallow,g8 tick
+munoz,maize,2020-21,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2020-21,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2020-21,limited_2,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2020-21,limited_2,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2020-21,limited_2,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2020-21,limited_2,114,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2020-21,limited_2,115,Harvest,Fallow,g8 tick
+munoz,maize,2021-22,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2021-22,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2021-22,limited_2,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2021-22,limited_2,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2021-22,limited_2,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2021-22,limited_2,109,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2021-22,limited_2,110,Harvest,Fallow,g8 tick
+munoz,maize,2022-23,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2022-23,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2022-23,limited_2,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2022-23,limited_2,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2022-23,limited_2,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2022-23,limited_2,112,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2022-23,limited_2,113,Harvest,Fallow,g8 tick
+munoz,maize,2023-24,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2023-24,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2023-24,limited_2,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2023-24,limited_2,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2023-24,limited_2,76,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,maize,2023-24,limited_2,77,Failed,Fallow,g9 tick
+munoz,maize,2024-25,limited_2,0,Fallow,Prep,g2 sow
+munoz,maize,2024-25,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2024-25,limited_2,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2024-25,limited_2,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2024-25,limited_2,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2024-25,limited_2,107,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2024-25,limited_2,108,Harvest,Fallow,g8 tick
+munoz,maize,2001-02,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2001-02,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2001-02,limited_4,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2001-02,limited_4,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2001-02,limited_4,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2001-02,limited_4,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2001-02,limited_4,111,Harvest,Fallow,g8 tick
+munoz,maize,2002-03,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2002-03,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2002-03,limited_4,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2002-03,limited_4,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2002-03,limited_4,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2002-03,limited_4,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2002-03,limited_4,111,Harvest,Fallow,g8 tick
+munoz,maize,2003-04,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2003-04,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2003-04,limited_4,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2003-04,limited_4,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2003-04,limited_4,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2003-04,limited_4,109,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2003-04,limited_4,110,Harvest,Fallow,g8 tick
+munoz,maize,2004-05,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2004-05,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2004-05,limited_4,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2004-05,limited_4,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2004-05,limited_4,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2004-05,limited_4,109,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2004-05,limited_4,110,Harvest,Fallow,g8 tick
+munoz,maize,2005-06,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2005-06,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2005-06,limited_4,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2005-06,limited_4,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2005-06,limited_4,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2005-06,limited_4,112,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2005-06,limited_4,113,Harvest,Fallow,g8 tick
+munoz,maize,2006-07,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2006-07,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2006-07,limited_4,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2006-07,limited_4,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2006-07,limited_4,85,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2006-07,limited_4,109,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2006-07,limited_4,110,Harvest,Fallow,g8 tick
+munoz,maize,2007-08,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2007-08,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2007-08,limited_4,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2007-08,limited_4,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2007-08,limited_4,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2007-08,limited_4,115,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2007-08,limited_4,116,Harvest,Fallow,g8 tick
+munoz,maize,2008-09,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2008-09,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2008-09,limited_4,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2008-09,limited_4,55,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2008-09,limited_4,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2008-09,limited_4,111,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2008-09,limited_4,112,Harvest,Fallow,g8 tick
+munoz,maize,2009-10,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2009-10,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2009-10,limited_4,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2009-10,limited_4,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2009-10,limited_4,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2009-10,limited_4,106,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2009-10,limited_4,107,Harvest,Fallow,g8 tick
+munoz,maize,2010-11,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2010-11,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2010-11,limited_4,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2010-11,limited_4,53,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2010-11,limited_4,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2010-11,limited_4,115,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2010-11,limited_4,116,Harvest,Fallow,g8 tick
+munoz,maize,2011-12,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2011-12,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2011-12,limited_4,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2011-12,limited_4,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2011-12,limited_4,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2011-12,limited_4,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2011-12,limited_4,111,Harvest,Fallow,g8 tick
+munoz,maize,2012-13,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2012-13,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2012-13,limited_4,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2012-13,limited_4,48,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2012-13,limited_4,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2012-13,limited_4,105,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2012-13,limited_4,106,Harvest,Fallow,g8 tick
+munoz,maize,2013-14,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2013-14,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2013-14,limited_4,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2013-14,limited_4,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2013-14,limited_4,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2013-14,limited_4,111,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2013-14,limited_4,112,Harvest,Fallow,g8 tick
+munoz,maize,2014-15,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2014-15,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2014-15,limited_4,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2014-15,limited_4,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2014-15,limited_4,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2014-15,limited_4,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2014-15,limited_4,111,Harvest,Fallow,g8 tick
+munoz,maize,2015-16,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2015-16,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2015-16,limited_4,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2015-16,limited_4,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2015-16,limited_4,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2015-16,limited_4,107,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2015-16,limited_4,108,Harvest,Fallow,g8 tick
+munoz,maize,2016-17,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2016-17,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2016-17,limited_4,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2016-17,limited_4,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2016-17,limited_4,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2016-17,limited_4,113,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2016-17,limited_4,114,Harvest,Fallow,g8 tick
+munoz,maize,2017-18,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2017-18,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2017-18,limited_4,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2017-18,limited_4,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2017-18,limited_4,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2017-18,limited_4,108,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2017-18,limited_4,109,Harvest,Fallow,g8 tick
+munoz,maize,2018-19,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2018-19,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2018-19,limited_4,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2018-19,limited_4,48,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2018-19,limited_4,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2018-19,limited_4,106,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2018-19,limited_4,107,Harvest,Fallow,g8 tick
+munoz,maize,2019-20,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2019-20,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2019-20,limited_4,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2019-20,limited_4,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2019-20,limited_4,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2019-20,limited_4,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2019-20,limited_4,111,Harvest,Fallow,g8 tick
+munoz,maize,2020-21,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2020-21,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2020-21,limited_4,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2020-21,limited_4,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2020-21,limited_4,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2020-21,limited_4,114,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2020-21,limited_4,115,Harvest,Fallow,g8 tick
+munoz,maize,2021-22,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2021-22,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2021-22,limited_4,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2021-22,limited_4,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2021-22,limited_4,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2021-22,limited_4,109,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2021-22,limited_4,110,Harvest,Fallow,g8 tick
+munoz,maize,2022-23,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2022-23,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2022-23,limited_4,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2022-23,limited_4,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2022-23,limited_4,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2022-23,limited_4,112,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2022-23,limited_4,113,Harvest,Fallow,g8 tick
+munoz,maize,2023-24,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2023-24,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2023-24,limited_4,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2023-24,limited_4,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2023-24,limited_4,80,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2023-24,limited_4,103,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2023-24,limited_4,104,Harvest,Fallow,g8 tick
+munoz,maize,2024-25,limited_4,0,Fallow,Prep,g2 sow
+munoz,maize,2024-25,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2024-25,limited_4,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2024-25,limited_4,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2024-25,limited_4,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2024-25,limited_4,107,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2024-25,limited_4,108,Harvest,Fallow,g8 tick
+munoz,maize,2001-02,full,0,Fallow,Prep,g2 sow
+munoz,maize,2001-02,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2001-02,full,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2001-02,full,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2001-02,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2001-02,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2001-02,full,111,Harvest,Fallow,g8 tick
+munoz,maize,2002-03,full,0,Fallow,Prep,g2 sow
+munoz,maize,2002-03,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2002-03,full,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2002-03,full,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2002-03,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2002-03,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2002-03,full,111,Harvest,Fallow,g8 tick
+munoz,maize,2003-04,full,0,Fallow,Prep,g2 sow
+munoz,maize,2003-04,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2003-04,full,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2003-04,full,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2003-04,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2003-04,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2003-04,full,110,Harvest,Fallow,g8 tick
+munoz,maize,2004-05,full,0,Fallow,Prep,g2 sow
+munoz,maize,2004-05,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2004-05,full,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2004-05,full,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2004-05,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2004-05,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2004-05,full,110,Harvest,Fallow,g8 tick
+munoz,maize,2005-06,full,0,Fallow,Prep,g2 sow
+munoz,maize,2005-06,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2005-06,full,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2005-06,full,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2005-06,full,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2005-06,full,112,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2005-06,full,113,Harvest,Fallow,g8 tick
+munoz,maize,2006-07,full,0,Fallow,Prep,g2 sow
+munoz,maize,2006-07,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2006-07,full,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2006-07,full,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2006-07,full,85,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2006-07,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2006-07,full,110,Harvest,Fallow,g8 tick
+munoz,maize,2007-08,full,0,Fallow,Prep,g2 sow
+munoz,maize,2007-08,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2007-08,full,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2007-08,full,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2007-08,full,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2007-08,full,115,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2007-08,full,116,Harvest,Fallow,g8 tick
+munoz,maize,2008-09,full,0,Fallow,Prep,g2 sow
+munoz,maize,2008-09,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2008-09,full,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2008-09,full,55,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2008-09,full,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2008-09,full,111,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2008-09,full,112,Harvest,Fallow,g8 tick
+munoz,maize,2009-10,full,0,Fallow,Prep,g2 sow
+munoz,maize,2009-10,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2009-10,full,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2009-10,full,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2009-10,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2009-10,full,106,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2009-10,full,107,Harvest,Fallow,g8 tick
+munoz,maize,2010-11,full,0,Fallow,Prep,g2 sow
+munoz,maize,2010-11,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2010-11,full,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2010-11,full,53,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2010-11,full,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2010-11,full,115,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2010-11,full,116,Harvest,Fallow,g8 tick
+munoz,maize,2011-12,full,0,Fallow,Prep,g2 sow
+munoz,maize,2011-12,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2011-12,full,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2011-12,full,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2011-12,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2011-12,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2011-12,full,111,Harvest,Fallow,g8 tick
+munoz,maize,2012-13,full,0,Fallow,Prep,g2 sow
+munoz,maize,2012-13,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2012-13,full,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2012-13,full,48,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2012-13,full,82,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2012-13,full,105,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2012-13,full,106,Harvest,Fallow,g8 tick
+munoz,maize,2013-14,full,0,Fallow,Prep,g2 sow
+munoz,maize,2013-14,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2013-14,full,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2013-14,full,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2013-14,full,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2013-14,full,111,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2013-14,full,112,Harvest,Fallow,g8 tick
+munoz,maize,2014-15,full,0,Fallow,Prep,g2 sow
+munoz,maize,2014-15,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2014-15,full,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2014-15,full,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2014-15,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2014-15,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2014-15,full,111,Harvest,Fallow,g8 tick
+munoz,maize,2015-16,full,0,Fallow,Prep,g2 sow
+munoz,maize,2015-16,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2015-16,full,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2015-16,full,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2015-16,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2015-16,full,107,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2015-16,full,108,Harvest,Fallow,g8 tick
+munoz,maize,2016-17,full,0,Fallow,Prep,g2 sow
+munoz,maize,2016-17,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2016-17,full,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2016-17,full,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2016-17,full,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2016-17,full,113,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2016-17,full,114,Harvest,Fallow,g8 tick
+munoz,maize,2017-18,full,0,Fallow,Prep,g2 sow
+munoz,maize,2017-18,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2017-18,full,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2017-18,full,50,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2017-18,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2017-18,full,108,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2017-18,full,109,Harvest,Fallow,g8 tick
+munoz,maize,2018-19,full,0,Fallow,Prep,g2 sow
+munoz,maize,2018-19,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2018-19,full,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2018-19,full,48,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2018-19,full,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2018-19,full,106,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2018-19,full,107,Harvest,Fallow,g8 tick
+munoz,maize,2019-20,full,0,Fallow,Prep,g2 sow
+munoz,maize,2019-20,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2019-20,full,18,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2019-20,full,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2019-20,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2019-20,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2019-20,full,111,Harvest,Fallow,g8 tick
+munoz,maize,2020-21,full,0,Fallow,Prep,g2 sow
+munoz,maize,2020-21,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2020-21,full,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2020-21,full,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2020-21,full,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2020-21,full,114,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2020-21,full,115,Harvest,Fallow,g8 tick
+munoz,maize,2021-22,full,0,Fallow,Prep,g2 sow
+munoz,maize,2021-22,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2021-22,full,19,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2021-22,full,52,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2021-22,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2021-22,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2021-22,full,110,Harvest,Fallow,g8 tick
+munoz,maize,2022-23,full,0,Fallow,Prep,g2 sow
+munoz,maize,2022-23,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2022-23,full,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2022-23,full,51,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2022-23,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2022-23,full,112,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2022-23,full,113,Harvest,Fallow,g8 tick
+munoz,maize,2023-24,full,0,Fallow,Prep,g2 sow
+munoz,maize,2023-24,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2023-24,full,16,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2023-24,full,46,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2023-24,full,80,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2023-24,full,103,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2023-24,full,104,Harvest,Fallow,g8 tick
+munoz,maize,2024-25,full,0,Fallow,Prep,g2 sow
+munoz,maize,2024-25,full,0,Prep,Estab,g3 d >= d_prep
+munoz,maize,2024-25,full,17,Estab,Veg,g4 G >= f_e G_mat
+munoz,maize,2024-25,full,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,maize,2024-25,full,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,maize,2024-25,full,107,Mature,Harvest,g7 G >= G_mat
+munoz,maize,2024-25,full,108,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2001-02,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2001-02,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2001-02,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2001-02,rainfed,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2001-02,rainfed,51,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2001-02,rainfed,52,Failed,Fallow,g9 tick
+munoz,sweet_potato,2002-03,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2002-03,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2002-03,rainfed,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2002-03,rainfed,40,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2002-03,rainfed,41,Failed,Fallow,g9 tick
+munoz,sweet_potato,2003-04,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2003-04,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2003-04,rainfed,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2003-04,rainfed,38,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2003-04,rainfed,39,Failed,Fallow,g9 tick
+munoz,sweet_potato,2004-05,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2004-05,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2004-05,rainfed,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2004-05,rainfed,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2004-05,rainfed,56,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2004-05,rainfed,57,Failed,Fallow,g9 tick
+munoz,sweet_potato,2005-06,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2005-06,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2005-06,rainfed,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2005-06,rainfed,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2005-06,rainfed,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2005-06,rainfed,114,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2005-06,rainfed,115,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2006-07,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2006-07,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2006-07,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2006-07,rainfed,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2006-07,rainfed,61,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2006-07,rainfed,62,Failed,Fallow,g9 tick
+munoz,sweet_potato,2007-08,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2007-08,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2007-08,rainfed,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2007-08,rainfed,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2007-08,rainfed,92,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2007-08,rainfed,117,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2007-08,rainfed,118,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2008-09,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2008-09,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2008-09,rainfed,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2008-09,rainfed,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2008-09,rainfed,60,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2008-09,rainfed,61,Failed,Fallow,g9 tick
+munoz,sweet_potato,2009-10,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2009-10,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2009-10,rainfed,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2009-10,rainfed,25,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2009-10,rainfed,26,Failed,Fallow,g9 tick
+munoz,sweet_potato,2010-11,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2010-11,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2010-11,rainfed,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2010-11,rainfed,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2010-11,rainfed,83,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2010-11,rainfed,84,Failed,Fallow,g9 tick
+munoz,sweet_potato,2011-12,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2011-12,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2011-12,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2011-12,rainfed,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2011-12,rainfed,72,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2011-12,rainfed,73,Failed,Fallow,g9 tick
+munoz,sweet_potato,2012-13,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2012-13,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2012-13,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2012-13,rainfed,38,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2012-13,rainfed,54,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2012-13,rainfed,55,Failed,Fallow,g9 tick
+munoz,sweet_potato,2013-14,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2013-14,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2013-14,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2013-14,rainfed,43,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2013-14,rainfed,44,Failed,Fallow,g9 tick
+munoz,sweet_potato,2014-15,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2014-15,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2014-15,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2014-15,rainfed,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2014-15,rainfed,70,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2014-15,rainfed,71,Failed,Fallow,g9 tick
+munoz,sweet_potato,2015-16,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2015-16,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2015-16,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2015-16,rainfed,41,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2015-16,rainfed,64,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2015-16,rainfed,65,Failed,Fallow,g9 tick
+munoz,sweet_potato,2016-17,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2016-17,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2016-17,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2016-17,rainfed,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2016-17,rainfed,91,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2016-17,rainfed,114,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2016-17,rainfed,115,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2017-18,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2017-18,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2017-18,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2017-18,rainfed,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2017-18,rainfed,79,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2017-18,rainfed,80,Failed,Fallow,g9 tick
+munoz,sweet_potato,2018-19,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2018-19,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2018-19,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2018-19,rainfed,38,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2018-19,rainfed,65,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2018-19,rainfed,66,Failed,Fallow,g9 tick
+munoz,sweet_potato,2019-20,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2019-20,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2019-20,rainfed,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2019-20,rainfed,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2019-20,rainfed,67,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2019-20,rainfed,68,Failed,Fallow,g9 tick
+munoz,sweet_potato,2020-21,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2020-21,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2020-21,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2020-21,rainfed,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2020-21,rainfed,91,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2020-21,rainfed,116,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2020-21,rainfed,117,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2021-22,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2021-22,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2021-22,rainfed,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2021-22,rainfed,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2021-22,rainfed,52,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2021-22,rainfed,53,Failed,Fallow,g9 tick
+munoz,sweet_potato,2022-23,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2022-23,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2022-23,rainfed,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2022-23,rainfed,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2022-23,rainfed,79,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2022-23,rainfed,80,Failed,Fallow,g9 tick
+munoz,sweet_potato,2023-24,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2023-24,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2023-24,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2023-24,rainfed,33,Veg,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2023-24,rainfed,34,Failed,Fallow,g9 tick
+munoz,sweet_potato,2024-25,rainfed,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2024-25,rainfed,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2024-25,rainfed,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2024-25,rainfed,39,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2024-25,rainfed,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2024-25,rainfed,105,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2024-25,rainfed,106,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2001-02,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2001-02,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2001-02,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2001-02,limited_2,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2001-02,limited_2,75,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2001-02,limited_2,76,Failed,Fallow,g9 tick
+munoz,sweet_potato,2002-03,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2002-03,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2002-03,limited_2,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2002-03,limited_2,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2002-03,limited_2,80,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2002-03,limited_2,81,Failed,Fallow,g9 tick
+munoz,sweet_potato,2003-04,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2003-04,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2003-04,limited_2,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2003-04,limited_2,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2003-04,limited_2,80,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2003-04,limited_2,81,Failed,Fallow,g9 tick
+munoz,sweet_potato,2004-05,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2004-05,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2004-05,limited_2,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2004-05,limited_2,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2004-05,limited_2,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2004-05,limited_2,109,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2004-05,limited_2,110,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2005-06,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2005-06,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2005-06,limited_2,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2005-06,limited_2,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2005-06,limited_2,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2005-06,limited_2,114,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2005-06,limited_2,115,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2006-07,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2006-07,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2006-07,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2006-07,limited_2,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2006-07,limited_2,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2006-07,limited_2,108,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2006-07,limited_2,109,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2007-08,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2007-08,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2007-08,limited_2,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2007-08,limited_2,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2007-08,limited_2,92,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2007-08,limited_2,117,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2007-08,limited_2,118,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2008-09,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2008-09,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2008-09,limited_2,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2008-09,limited_2,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2008-09,limited_2,91,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2008-09,limited_2,112,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2008-09,limited_2,113,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2009-10,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2009-10,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2009-10,limited_2,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2009-10,limited_2,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2009-10,limited_2,71,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2009-10,limited_2,72,Failed,Fallow,g9 tick
+munoz,sweet_potato,2010-11,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2010-11,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2010-11,limited_2,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2010-11,limited_2,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2010-11,limited_2,93,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2010-11,limited_2,117,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2010-11,limited_2,118,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2011-12,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2011-12,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2011-12,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2011-12,limited_2,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2011-12,limited_2,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2011-12,limited_2,111,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2011-12,limited_2,112,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2012-13,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2012-13,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2012-13,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2012-13,limited_2,38,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2012-13,limited_2,81,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2012-13,limited_2,104,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2012-13,limited_2,105,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2013-14,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2013-14,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2013-14,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2013-14,limited_2,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2013-14,limited_2,85,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2013-14,limited_2,86,Failed,Fallow,g9 tick
+munoz,sweet_potato,2014-15,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2014-15,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2014-15,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2014-15,limited_2,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2014-15,limited_2,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2014-15,limited_2,110,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2014-15,limited_2,111,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2015-16,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2015-16,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2015-16,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2015-16,limited_2,41,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2015-16,limited_2,82,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2015-16,limited_2,83,Failed,Fallow,g9 tick
+munoz,sweet_potato,2016-17,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2016-17,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2016-17,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2016-17,limited_2,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2016-17,limited_2,91,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2016-17,limited_2,114,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2016-17,limited_2,115,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2017-18,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2017-18,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2017-18,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2017-18,limited_2,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2017-18,limited_2,85,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2017-18,limited_2,107,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2017-18,limited_2,108,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2018-19,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2018-19,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2018-19,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2018-19,limited_2,38,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2018-19,limited_2,82,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2018-19,limited_2,83,Failed,Fallow,g9 tick
+munoz,sweet_potato,2019-20,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2019-20,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2019-20,limited_2,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2019-20,limited_2,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2019-20,limited_2,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2019-20,limited_2,110,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2019-20,limited_2,111,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2020-21,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2020-21,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2020-21,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2020-21,limited_2,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2020-21,limited_2,91,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2020-21,limited_2,116,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2020-21,limited_2,117,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2021-22,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2021-22,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2021-22,limited_2,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2021-22,limited_2,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2021-22,limited_2,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2021-22,limited_2,109,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2021-22,limited_2,110,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2022-23,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2022-23,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2022-23,limited_2,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2022-23,limited_2,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2022-23,limited_2,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2022-23,limited_2,113,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2022-23,limited_2,114,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2023-24,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2023-24,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2023-24,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2023-24,limited_2,37,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2023-24,limited_2,73,Repro,Failed,g1 kappa_sev >= K_fail
+munoz,sweet_potato,2023-24,limited_2,74,Failed,Fallow,g9 tick
+munoz,sweet_potato,2024-25,limited_2,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2024-25,limited_2,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2024-25,limited_2,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2024-25,limited_2,39,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2024-25,limited_2,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2024-25,limited_2,105,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2024-25,limited_2,106,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2001-02,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2001-02,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2001-02,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2001-02,limited_4,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2001-02,limited_4,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2001-02,limited_4,110,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2001-02,limited_4,111,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2002-03,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2002-03,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2002-03,limited_4,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2002-03,limited_4,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2002-03,limited_4,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2002-03,limited_4,110,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2002-03,limited_4,111,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2003-04,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2003-04,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2003-04,limited_4,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2003-04,limited_4,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2003-04,limited_4,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2003-04,limited_4,109,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2003-04,limited_4,110,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2004-05,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2004-05,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2004-05,limited_4,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2004-05,limited_4,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2004-05,limited_4,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2004-05,limited_4,109,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2004-05,limited_4,110,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2005-06,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2005-06,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2005-06,limited_4,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2005-06,limited_4,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2005-06,limited_4,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2005-06,limited_4,114,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2005-06,limited_4,115,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2006-07,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2006-07,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2006-07,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2006-07,limited_4,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2006-07,limited_4,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2006-07,limited_4,108,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2006-07,limited_4,109,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2007-08,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2007-08,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2007-08,limited_4,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2007-08,limited_4,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2007-08,limited_4,92,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2007-08,limited_4,117,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2007-08,limited_4,118,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2008-09,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2008-09,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2008-09,limited_4,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2008-09,limited_4,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2008-09,limited_4,91,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2008-09,limited_4,112,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2008-09,limited_4,113,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2009-10,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2009-10,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2009-10,limited_4,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2009-10,limited_4,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2009-10,limited_4,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2009-10,limited_4,104,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2009-10,limited_4,105,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2010-11,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2010-11,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2010-11,limited_4,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2010-11,limited_4,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2010-11,limited_4,93,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2010-11,limited_4,117,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2010-11,limited_4,118,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2011-12,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2011-12,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2011-12,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2011-12,limited_4,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2011-12,limited_4,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2011-12,limited_4,111,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2011-12,limited_4,112,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2012-13,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2012-13,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2012-13,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2012-13,limited_4,38,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2012-13,limited_4,81,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2012-13,limited_4,104,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2012-13,limited_4,105,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2013-14,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2013-14,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2013-14,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2013-14,limited_4,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2013-14,limited_4,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2013-14,limited_4,112,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2013-14,limited_4,113,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2014-15,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2014-15,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2014-15,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2014-15,limited_4,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2014-15,limited_4,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2014-15,limited_4,110,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2014-15,limited_4,111,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2015-16,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2015-16,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2015-16,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2015-16,limited_4,41,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2015-16,limited_4,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2015-16,limited_4,106,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2015-16,limited_4,107,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2016-17,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2016-17,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2016-17,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2016-17,limited_4,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2016-17,limited_4,91,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2016-17,limited_4,114,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2016-17,limited_4,115,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2017-18,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2017-18,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2017-18,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2017-18,limited_4,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2017-18,limited_4,85,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2017-18,limited_4,107,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2017-18,limited_4,108,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2018-19,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2018-19,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2018-19,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2018-19,limited_4,38,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2018-19,limited_4,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2018-19,limited_4,105,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2018-19,limited_4,106,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2019-20,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2019-20,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2019-20,limited_4,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2019-20,limited_4,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2019-20,limited_4,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2019-20,limited_4,110,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2019-20,limited_4,111,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2020-21,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2020-21,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2020-21,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2020-21,limited_4,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2020-21,limited_4,91,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2020-21,limited_4,116,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2020-21,limited_4,117,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2021-22,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2021-22,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2021-22,limited_4,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2021-22,limited_4,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2021-22,limited_4,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2021-22,limited_4,109,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2021-22,limited_4,110,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2022-23,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2022-23,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2022-23,limited_4,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2022-23,limited_4,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2022-23,limited_4,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2022-23,limited_4,113,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2022-23,limited_4,114,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2023-24,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2023-24,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2023-24,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2023-24,limited_4,37,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2023-24,limited_4,79,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2023-24,limited_4,101,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2023-24,limited_4,102,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2024-25,limited_4,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2024-25,limited_4,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2024-25,limited_4,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2024-25,limited_4,39,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2024-25,limited_4,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2024-25,limited_4,105,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2024-25,limited_4,106,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2001-02,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2001-02,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2001-02,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2001-02,full,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2001-02,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2001-02,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2001-02,full,111,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2002-03,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2002-03,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2002-03,full,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2002-03,full,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2002-03,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2002-03,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2002-03,full,111,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2003-04,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2003-04,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2003-04,full,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2003-04,full,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2003-04,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2003-04,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2003-04,full,110,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2004-05,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2004-05,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2004-05,full,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2004-05,full,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2004-05,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2004-05,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2004-05,full,110,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2005-06,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2005-06,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2005-06,full,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2005-06,full,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2005-06,full,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2005-06,full,114,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2005-06,full,115,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2006-07,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2006-07,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2006-07,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2006-07,full,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2006-07,full,86,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2006-07,full,108,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2006-07,full,109,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2007-08,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2007-08,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2007-08,full,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2007-08,full,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2007-08,full,92,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2007-08,full,117,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2007-08,full,118,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2008-09,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2008-09,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2008-09,full,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2008-09,full,49,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2008-09,full,91,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2008-09,full,112,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2008-09,full,113,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2009-10,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2009-10,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2009-10,full,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2009-10,full,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2009-10,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2009-10,full,104,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2009-10,full,105,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2010-11,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2010-11,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2010-11,full,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2010-11,full,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2010-11,full,93,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2010-11,full,117,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2010-11,full,118,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2011-12,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2011-12,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2011-12,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2011-12,full,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2011-12,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2011-12,full,111,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2011-12,full,112,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2012-13,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2012-13,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2012-13,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2012-13,full,38,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2012-13,full,81,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2012-13,full,104,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2012-13,full,105,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2013-14,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2013-14,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2013-14,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2013-14,full,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2013-14,full,90,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2013-14,full,112,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2013-14,full,113,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2014-15,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2014-15,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2014-15,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2014-15,full,43,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2014-15,full,88,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2014-15,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2014-15,full,111,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2015-16,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2015-16,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2015-16,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2015-16,full,41,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2015-16,full,84,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2015-16,full,106,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2015-16,full,107,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2016-17,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2016-17,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2016-17,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2016-17,full,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2016-17,full,91,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2016-17,full,114,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2016-17,full,115,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2017-18,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2017-18,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2017-18,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2017-18,full,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2017-18,full,85,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2017-18,full,107,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2017-18,full,108,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2018-19,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2018-19,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2018-19,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2018-19,full,38,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2018-19,full,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2018-19,full,105,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2018-19,full,106,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2019-20,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2019-20,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2019-20,full,14,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2019-20,full,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2019-20,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2019-20,full,110,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2019-20,full,111,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2020-21,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2020-21,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2020-21,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2020-21,full,42,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2020-21,full,91,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2020-21,full,116,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2020-21,full,117,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2021-22,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2021-22,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2021-22,full,15,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2021-22,full,45,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2021-22,full,87,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2021-22,full,109,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2021-22,full,110,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2022-23,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2022-23,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2022-23,full,13,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2022-23,full,44,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2022-23,full,89,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2022-23,full,113,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2022-23,full,114,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2023-24,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2023-24,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2023-24,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2023-24,full,37,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2023-24,full,79,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2023-24,full,101,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2023-24,full,102,Harvest,Fallow,g8 tick
+munoz,sweet_potato,2024-25,full,0,Fallow,Prep,g2 sow
+munoz,sweet_potato,2024-25,full,0,Prep,Estab,g3 d >= d_prep
+munoz,sweet_potato,2024-25,full,12,Estab,Veg,g4 G >= f_e G_mat
+munoz,sweet_potato,2024-25,full,39,Veg,Repro,g5 G >= f_v G_mat
+munoz,sweet_potato,2024-25,full,83,Repro,Mature,g6 G >= f_r G_mat
+munoz,sweet_potato,2024-25,full,105,Mature,Harvest,g7 G >= G_mat
+munoz,sweet_potato,2024-25,full,106,Harvest,Fallow,g8 tick
