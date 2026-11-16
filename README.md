@@ -24,6 +24,56 @@ El Niño brings drier, hotter dry seasons to Central Luzon. A farmer who plants 
 - **Works offline.** All recommendation data ships inside the app. When the phone is online, it can also fetch recent NASA POWER weather for the outlook and the tracker.
 - **Has a season replay demo.** It replays past seasons so you can see the tracker and its alerts without waiting a real season.
 
+## Research paper
+
+Ani is the working system behind the paper **"Ani: An Extended Finite State Machine-Based Decision Support System for El Niño Dry-Season Crop Selection in Nueva Ecija"**, submitted to the NASA Space Apps Challenge, **Field Shift: Adapting Farms with NASA Data** (November 2026).
+
+**Read the paper:** [`docs/Ani_NASA_Space_Apps_Challenge.docx`](docs/Ani_NASA_Space_Apps_Challenge.docx)
+
+**Why it was built.** Farmers choose their dry-season crop before they know how dry the season will be. They rely on fixed calendars and general El Niño advisories, which don't say what a drought means for a given crop on a farm with a given water supply. Free NASA, soil and market data are never turned into local advice. In November 2026 the July–September value of NOAA's Relative Oceanic Niño Index was +2.2, the highest since 2000 and above the +1.7 that preceded the 2015–2016 drought, so the signal for the coming dry season is strong.
+
+**Objectives.**
+
+1. Build a town-level dryness index and El Niño outlook that ranks the current season against 25 years of each town's own record.
+2. Simulate daily soil water, growth stage, water stress, failure and irrigation need for rice, onion, mungbean, maize and sweet potato in every dry season from 2001 to 2025, under four levels of irrigation access.
+3. Design a deterministic, deadlock-free planner, modelled as an extended finite state machine (EFSM), that removes unsuitable crops, ranks the rest by the farmer's priorities and explains each recommendation.
+4. Quantify uncertainty with Wilson confidence intervals and a Monte Carlo simulation, and report the failure risk and net-income range on every recommendation.
+5. Provide in-season alerts on dryness, crop water stress, heat at flowering, harvest timing and heat safety through an offline mobile app.
+
+**Three state machines.** The system implements a *field machine* for the growing season, a *planner* that ranks crops from the farmer's answers, and an *alert machine* for the dryness banner.
+
+**Who it is for.** Farmers get advice that matches their own water access and priorities. Municipal Agriculture Offices and the Department of Agriculture get a tool that shows the reasons and uncertainty behind each recommendation. The National Irrigation Administration and local governments can see how much irrigation each crop needs in an El Niño season.
+
+### Scope
+
+| | |
+| --- | --- |
+| **Towns** | Guimba (15.6623° N, 120.7657° E), Science City of Muñoz (15.7153° N, 120.9039° E), Bongabon (15.6321° N, 121.1459° E), one point each |
+| **Season** | Dry season, November to April; baseline 2001–2025 |
+| **Crops** | Rice, red onion, mungbean, yellow maize, sweet potato (sown 1 December ±15 days) |
+| **Irrigation levels** | None, about two, about four, as needed |
+| **Uncertainty** | Wilson confidence intervals; Monte Carlo with 200 runs |
+
+### Delimitations
+
+- Only drought and heat linked to El Niño are modelled. Flood, typhoon, erosion, pests and disease are not.
+- Results describe one point per town, not individual fields or barangays. Guimba and Muñoz share one NASA POWER weather cell for temperature.
+- Only five crops, and crop-level advice only: varieties are not compared. Peanut, sorghum and watermelon were left out for lack of local data.
+- Labour is not a criterion, except inside the PSA production cost.
+- Irrigation is only the number of times a farmer can irrigate. Canal schedules, pump capacity and water cost are not modelled. Rice is modelled as an upland crop, so its water need is a lower bound.
+- Yields and prices are provincial averages, and costs are regional or national averages from different years. Net income ignores partial yield loss short of crop failure.
+- Crop failure is defined as ten or more consecutive days of severe water stress, a calibration choice and not a published threshold. Heat damage at flowering is evaluated for rice only.
+- No field trials. Validation uses satellite data, published crop durations and agricultural statistics.
+
+### Proponents
+
+- Sean Anikin Coquia
+- Peter Dela Cruz
+- Hanz Laurence Mapua
+- Kurt Laurence Raneses
+- Aaron Angelo Ragudos
+- Jerick Anthony Remo
+
 ## How it works
 
 ```
@@ -82,6 +132,7 @@ app/                 Flutter app
 pipeline/            Python data pipeline (see pipeline/README.md)
 notebooks/           exploration, Monte Carlo and figure notebooks
 docs/
+  Ani_NASA_Space_Apps_Challenge.docx   the research paper
   PLAN.md            build plan and design decisions
   DEMO.md            five-minute demo script
 ```
@@ -155,4 +206,5 @@ Try it at **https://alyastanga.github.io/Ani/**, or follow the five-minute scrip
 - Advisory only. Ani is not agronomic or financial advice and does not replace the MAO.
 - It covers three towns and five crops only. The El Niño state for the coming season, and all other data, come from the bundles built at the last pipeline run.
 - Income, water and failure-risk figures are estimates from 2001–2025 history and may be far from what a given farm sees (see the ranges on each card).
+- The model covers only El Niño drought and heat, with one point per town and no field trials. See the paper's delimitations above.
 - Season replay shows past seasons only. Its alerts are not live and are never saved.
