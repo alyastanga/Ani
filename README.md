@@ -28,7 +28,7 @@ El Niño brings drier, hotter dry seasons to Central Luzon. A farmer who plants 
 
 Ani is the working system behind the paper **"Ani: An Extended Finite State Machine-Based Decision Support System for El Niño Dry-Season Crop Selection in Nueva Ecija"**, submitted to the NASA Space Apps Challenge, **Field Shift: Adapting Farms with NASA Data** (November 2026).
 
-**Read the paper:** [`docs/Ani_NASA_Space_Apps_Challenge.docx`](docs/Ani_NASA_Space_Apps_Challenge.docx)
+**Read the paper:** [`docs/paper/PAPER.md`](docs/paper/PAPER.md) (Markdown, with figures and equations), or download the original [Word file](docs/Ani_NASA_Space_Apps_Challenge.docx).
 
 **Why it was built.** Farmers choose their dry-season crop before they know how dry the season will be. They rely on fixed calendars and general El Niño advisories, which don't say what a drought means for a given crop on a farm with a given water supply. Free NASA, soil and market data are never turned into local advice. In November 2026 the July–September value of NOAA's Relative Oceanic Niño Index was +2.2, the highest since 2000 and above the +1.7 that preceded the 2015–2016 drought, so the signal for the coming dry season is strong.
 
@@ -132,7 +132,8 @@ app/                 Flutter app
 pipeline/            Python data pipeline (see pipeline/README.md)
 notebooks/           exploration, Monte Carlo and figure notebooks
 docs/
-  Ani_NASA_Space_Apps_Challenge.docx   the research paper
+  paper/PAPER.md     the research paper (Markdown) with its images
+  Ani_NASA_Space_Apps_Challenge.docx   the research paper (Word original)
   PLAN.md            build plan and design decisions
   DEMO.md            five-minute demo script
 ```
